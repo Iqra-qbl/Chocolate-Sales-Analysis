@@ -1,0 +1,1095 @@
+Country,Product,Date,Amount,Boxes Shipped,Product Category,Month,Day,Month Name,Revenue per Box Shipped
+UK,Mint Chip Choco,2022-01-04,5320.0,180,Flavored Chocolate,1,4,January,30.0
+India,85% Dark Bars,2022-08-01,7896.0,94,Dark Chocolate,8,1,August,84.0
+India,Peanut Butter Cubes,2022-07-07,4501.0,91,Nut-based Chocolate,7,7,July,49.0
+Australia,Peanut Butter Cubes,2022-04-27,12726.0,342,Nut-based Chocolate,4,27,April,37.0
+UK,Peanut Butter Cubes,2022-02-24,13685.0,184,Nut-based Chocolate,2,24,February,74.0
+India,Smooth Sliky Salty,2022-06-06,5376.0,38,Specialty Chocolate,6,6,June,141.0
+UK,99% Dark & Pure,2022-01-25,13685.0,176,Dark Chocolate,1,25,January,78.0
+Australia,After Nines,2022-03-24,3080.0,73,Specialty Chocolate,3,24,March,42.0
+New Zealand,50% Dark Bites,2022-04-20,3990.0,59,Dark Chocolate,4,20,April,68.0
+Australia,99% Dark & Pure,2022-07-04,2835.0,102,Dark Chocolate,7,4,July,28.0
+UK,Smooth Sliky Salty,2022-01-13,4704.0,62,Specialty Chocolate,1,13,January,76.0
+USA,Orange Choco,2022-03-10,3703.0,11,Flavored Chocolate,3,10,March,337.0
+Canada,Eclairs,2022-01-13,1442.0,286,Specialty Chocolate,1,13,January,5.0
+New Zealand,Drinking Coco,2022-07-28,168.0,156,Specialty Chocolate,7,28,July,1.0
+New Zealand,Peanut Butter Cubes,2022-08-03,8379.0,173,Nut-based Chocolate,8,3,August,48.0
+Australia,Organic Choco Syrup,2022-01-26,6790.0,356,Specialty Chocolate,1,26,January,19.0
+Canada,Organic Choco Syrup,2022-02-14,4067.0,42,Specialty Chocolate,2,14,February,97.0
+USA,Smooth Sliky Salty,2022-04-05,3017.0,140,Specialty Chocolate,4,5,April,22.0
+Canada,Milk Bars,2022-02-16,8799.0,250,Milk & White Chocolate,2,16,February,35.0
+UK,85% Dark Bars,2022-06-08,1085.0,172,Dark Chocolate,6,8,June,6.0
+Australia,Eclairs,2022-06-27,6888.0,88,Specialty Chocolate,6,27,June,78.0
+USA,Spicy Special Slims,2022-02-17,1267.0,157,Flavored Chocolate,2,17,February,8.0
+USA,After Nines,2022-05-30,4753.0,163,Specialty Chocolate,5,30,May,29.0
+UK,Drinking Coco,2022-03-14,3003.0,113,Specialty Chocolate,3,14,March,27.0
+Australia,Eclairs,2022-02-28,7672.0,115,Specialty Chocolate,2,28,February,67.0
+India,Fruit & Nut Bars,2022-01-26,168.0,321,Flavored Chocolate,1,26,January,1.0
+Canada,Spicy Special Slims,2022-02-09,1652.0,186,Flavored Chocolate,2,9,February,9.0
+USA,Eclairs,2022-07-07,4025.0,112,Specialty Chocolate,7,7,July,36.0
+New Zealand,White Choc,2022-07-05,9492.0,151,Milk & White Chocolate,7,5,July,63.0
+New Zealand,Manuka Honey Choco,2022-06-15,5061.0,301,Flavored Chocolate,6,15,June,17.0
+New Zealand,85% Dark Bars,2022-05-24,1722.0,121,Dark Chocolate,5,24,May,14.0
+UK,99% Dark & Pure,2022-06-29,12446.0,150,Dark Chocolate,6,29,June,83.0
+Australia,Manuka Honey Choco,2022-05-11,4284.0,94,Flavored Chocolate,5,11,May,46.0
+UK,Almond Choco,2022-06-30,6839.0,133,Nut-based Chocolate,6,30,June,51.0
+Canada,After Nines,2022-05-11,2163.0,70,Specialty Chocolate,5,11,May,31.0
+USA,Manuka Honey Choco,2022-07-22,9583.0,315,Flavored Chocolate,7,22,July,30.0
+UK,50% Dark Bites,2022-08-24,2653.0,314,Dark Chocolate,8,24,August,8.0
+New Zealand,After Nines,2022-07-07,147.0,72,Specialty Chocolate,7,7,July,2.0
+Australia,85% Dark Bars,2022-05-19,3654.0,14,Dark Chocolate,5,19,May,261.0
+India,Manuka Honey Choco,2022-07-04,2443.0,581,Flavored Chocolate,7,4,July,4.0
+USA,After Nines,2022-06-02,938.0,16,Specialty Chocolate,6,2,June,59.0
+USA,Raspberry Choco,2022-04-15,14749.0,354,Flavored Chocolate,4,15,April,42.0
+Canada,Choco Coated Almonds,2022-07-11,4781.0,241,Nut-based Chocolate,7,11,July,20.0
+India,Spicy Special Slims,2022-02-23,6307.0,142,Flavored Chocolate,2,23,February,44.0
+Canada,Almond Choco,2022-08-22,7602.0,102,Nut-based Chocolate,8,22,August,75.0
+USA,Peanut Butter Cubes,2022-02-16,6790.0,188,Nut-based Chocolate,2,16,February,36.0
+USA,50% Dark Bites,2022-01-13,9737.0,160,Dark Chocolate,1,13,January,61.0
+Australia,Milk Bars,2022-02-14,6979.0,18,Milk & White Chocolate,2,14,February,388.0
+India,Eclairs,2022-06-10,4382.0,303,Specialty Chocolate,6,10,June,14.0
+India,Fruit & Nut Bars,2022-07-07,5243.0,176,Flavored Chocolate,7,7,July,30.0
+Canada,Almond Choco,2022-03-24,4865.0,70,Nut-based Chocolate,3,24,March,70.0
+Australia,Fruit & Nut Bars,2022-06-06,8575.0,23,Flavored Chocolate,6,6,June,373.0
+Australia,Drinking Coco,2022-07-19,91.0,135,Specialty Chocolate,7,19,July,1.0
+USA,Raspberry Choco,2022-04-19,14798.0,83,Flavored Chocolate,4,19,April,178.0
+India,85% Dark Bars,2022-07-19,2205.0,179,Dark Chocolate,7,19,July,12.0
+Canada,Drinking Coco,2022-07-15,441.0,24,Specialty Chocolate,7,15,July,18.0
+New Zealand,Spicy Special Slims,2022-02-14,3556.0,18,Flavored Chocolate,2,14,February,198.0
+Canada,99% Dark & Pure,2022-05-18,16793.0,416,Dark Chocolate,5,18,May,40.0
+Australia,Fruit & Nut Bars,2022-06-30,15421.0,55,Flavored Chocolate,6,30,June,280.0
+Australia,50% Dark Bites,2022-06-02,4438.0,227,Dark Chocolate,6,2,June,20.0
+Australia,Drinking Coco,2022-06-28,1603.0,48,Specialty Chocolate,6,28,June,33.0
+Australia,Organic Choco Syrup,2022-05-16,273.0,174,Specialty Chocolate,5,16,May,2.0
+Canada,Baker's Choco Chips,2022-05-26,3073.0,302,Specialty Chocolate,5,26,May,10.0
+India,Almond Choco,2022-07-06,6090.0,149,Nut-based Chocolate,7,6,July,41.0
+India,99% Dark & Pure,2022-05-27,10255.0,11,Dark Chocolate,5,27,May,932.0
+Australia,Caramel Stuffed Bars,2022-04-14,2030.0,11,Flavored Chocolate,4,14,April,185.0
+Australia,Organic Choco Syrup,2022-08-10,19453.0,14,Specialty Chocolate,8,10,August,1390.0
+India,50% Dark Bites,2022-07-04,9275.0,411,Dark Chocolate,7,4,July,23.0
+India,Organic Choco Syrup,2022-07-08,6181.0,56,Specialty Chocolate,7,8,July,110.0
+USA,Peanut Butter Cubes,2022-07-22,9037.0,102,Nut-based Chocolate,7,22,July,89.0
+USA,Choco Coated Almonds,2022-03-02,12313.0,103,Nut-based Chocolate,3,2,March,120.0
+UK,Almond Choco,2022-01-10,5642.0,9,Nut-based Chocolate,1,10,January,627.0
+New Zealand,White Choc,2022-03-11,2800.0,241,Milk & White Chocolate,3,11,March,12.0
+New Zealand,Peanut Butter Cubes,2022-06-20,959.0,265,Nut-based Chocolate,6,20,June,4.0
+UK,Organic Choco Syrup,2022-08-26,2002.0,214,Specialty Chocolate,8,26,August,9.0
+Canada,Milk Bars,2022-07-13,609.0,32,Milk & White Chocolate,7,13,July,19.0
+USA,Spicy Special Slims,2022-02-11,1274.0,244,Flavored Chocolate,2,11,February,5.0
+USA,Orange Choco,2022-01-27,7595.0,181,Flavored Chocolate,1,27,January,42.0
+UK,99% Dark & Pure,2022-01-31,4725.0,137,Dark Chocolate,1,31,January,34.0
+USA,White Choc,2022-08-18,9681.0,24,Milk & White Chocolate,8,18,August,403.0
+USA,Raspberry Choco,2022-06-30,14504.0,21,Flavored Chocolate,6,30,June,691.0
+Australia,Fruit & Nut Bars,2022-08-23,280.0,311,Flavored Chocolate,8,23,August,1.0
+New Zealand,Mint Chip Choco,2022-08-01,63.0,181,Flavored Chocolate,8,1,August,0.0
+New Zealand,After Nines,2022-05-25,8001.0,10,Specialty Chocolate,5,25,May,800.0
+Canada,Organic Choco Syrup,2022-01-10,4032.0,82,Specialty Chocolate,1,10,January,49.0
+Australia,70% Dark Bites,2022-02-07,5859.0,108,Dark Chocolate,2,7,February,54.0
+USA,Orange Choco,2022-05-12,11095.0,401,Flavored Chocolate,5,12,May,28.0
+Australia,Spicy Special Slims,2022-03-07,7182.0,408,Flavored Chocolate,3,7,March,18.0
+Australia,85% Dark Bars,2022-04-05,6881.0,420,Dark Chocolate,4,5,April,16.0
+Canada,Caramel Stuffed Bars,2022-01-03,7154.0,348,Flavored Chocolate,1,3,January,21.0
+UK,Eclairs,2022-03-24,6188.0,270,Specialty Chocolate,3,24,March,23.0
+India,Raspberry Choco,2022-07-07,4221.0,9,Flavored Chocolate,7,7,July,469.0
+USA,After Nines,2022-07-26,630.0,264,Specialty Chocolate,7,26,July,2.0
+Australia,Organic Choco Syrup,2022-07-07,1743.0,111,Specialty Chocolate,7,7,July,16.0
+Canada,50% Dark Bites,2022-07-15,2919.0,65,Dark Chocolate,7,15,July,45.0
+New Zealand,Orange Choco,2022-04-01,49.0,97,Flavored Chocolate,4,1,April,1.0
+Australia,Eclairs,2022-06-20,1827.0,6,Specialty Chocolate,6,20,June,304.0
+UK,Fruit & Nut Bars,2022-06-29,13006.0,482,Flavored Chocolate,6,29,June,27.0
+USA,50% Dark Bites,2022-06-15,1064.0,106,Dark Chocolate,6,15,June,10.0
+USA,After Nines,2022-04-08,11571.0,180,Specialty Chocolate,4,8,April,64.0
+Australia,Raspberry Choco,2022-03-14,5740.0,31,Flavored Chocolate,3,14,March,185.0
+USA,Fruit & Nut Bars,2022-07-15,1456.0,359,Flavored Chocolate,7,15,July,4.0
+India,Eclairs,2022-04-19,5334.0,80,Specialty Chocolate,4,19,April,67.0
+USA,99% Dark & Pure,2022-03-28,4151.0,296,Dark Chocolate,3,28,March,14.0
+Canada,Spicy Special Slims,2022-03-04,8106.0,101,Flavored Chocolate,3,4,March,80.0
+New Zealand,70% Dark Bites,2022-08-02,126.0,40,Dark Chocolate,8,2,August,3.0
+UK,Spicy Special Slims,2022-08-25,4697.0,42,Flavored Chocolate,8,25,August,112.0
+USA,Almond Choco,2022-02-25,7798.0,167,Nut-based Chocolate,2,25,February,47.0
+India,Orange Choco,2022-06-07,9408.0,138,Flavored Chocolate,6,7,June,68.0
+India,Spicy Special Slims,2022-04-12,1939.0,520,Flavored Chocolate,4,12,April,4.0
+India,Spicy Special Slims,2022-07-06,10906.0,94,Flavored Chocolate,7,6,July,116.0
+UK,Smooth Sliky Salty,2022-01-19,5929.0,175,Specialty Chocolate,1,19,January,34.0
+Australia,Fruit & Nut Bars,2022-01-05,5579.0,92,Flavored Chocolate,1,5,January,61.0
+Canada,70% Dark Bites,2022-01-24,10927.0,141,Dark Chocolate,1,24,January,77.0
+Australia,Drinking Coco,2022-04-06,623.0,283,Specialty Chocolate,4,6,April,2.0
+Australia,Fruit & Nut Bars,2022-06-15,6013.0,21,Flavored Chocolate,6,15,June,286.0
+Canada,Baker's Choco Chips,2022-01-28,1505.0,47,Specialty Chocolate,1,28,January,32.0
+India,Caramel Stuffed Bars,2022-03-16,476.0,125,Flavored Chocolate,3,16,March,4.0
+Australia,Drinking Coco,2022-02-21,11550.0,396,Specialty Chocolate,2,21,February,29.0
+USA,Manuka Honey Choco,2022-02-16,17318.0,87,Flavored Chocolate,2,16,February,199.0
+Canada,Spicy Special Slims,2022-01-13,1848.0,27,Flavored Chocolate,1,13,January,68.0
+Australia,Eclairs,2022-03-23,7273.0,547,Specialty Chocolate,3,23,March,13.0
+Canada,Spicy Special Slims,2022-06-16,854.0,118,Flavored Chocolate,6,16,June,7.0
+India,Raspberry Choco,2022-04-14,6832.0,46,Flavored Chocolate,4,14,April,149.0
+UK,Eclairs,2022-01-25,4606.0,57,Specialty Chocolate,1,25,January,81.0
+India,Almond Choco,2022-03-11,4466.0,22,Nut-based Chocolate,3,11,March,203.0
+UK,Almond Choco,2022-07-28,16114.0,96,Nut-based Chocolate,7,28,July,168.0
+New Zealand,After Nines,2022-03-09,1561.0,44,Specialty Chocolate,3,9,March,35.0
+Australia,Orange Choco,2022-06-28,8897.0,188,Flavored Chocolate,6,28,June,47.0
+Australia,Milk Bars,2022-07-28,2464.0,387,Milk & White Chocolate,7,28,July,6.0
+Canada,99% Dark & Pure,2022-08-15,4830.0,50,Dark Chocolate,8,15,August,97.0
+Australia,Manuka Honey Choco,2022-01-12,2765.0,264,Flavored Chocolate,1,12,January,10.0
+New Zealand,White Choc,2022-03-24,7126.0,7,Milk & White Chocolate,3,24,March,1018.0
+UK,Milk Bars,2022-07-25,4263.0,90,Milk & White Chocolate,7,25,July,47.0
+Canada,99% Dark & Pure,2022-08-01,3605.0,403,Dark Chocolate,8,1,August,9.0
+India,Organic Choco Syrup,2022-05-16,19929.0,174,Specialty Chocolate,5,16,May,115.0
+India,Smooth Sliky Salty,2022-08-10,5103.0,140,Specialty Chocolate,8,10,August,36.0
+India,Eclairs,2022-01-05,2541.0,27,Specialty Chocolate,1,5,January,94.0
+UK,Smooth Sliky Salty,2022-07-11,5663.0,110,Specialty Chocolate,7,11,July,51.0
+USA,After Nines,2022-04-25,392.0,30,Specialty Chocolate,4,25,April,13.0
+New Zealand,Fruit & Nut Bars,2022-04-04,10976.0,121,Flavored Chocolate,4,4,April,91.0
+USA,Raspberry Choco,2022-04-12,9282.0,101,Flavored Chocolate,4,12,April,92.0
+New Zealand,85% Dark Bars,2022-08-02,1827.0,117,Dark Chocolate,8,2,August,16.0
+New Zealand,Manuka Honey Choco,2022-06-28,8267.0,272,Flavored Chocolate,6,28,June,30.0
+Australia,Eclairs,2022-07-05,4116.0,128,Specialty Chocolate,7,5,July,32.0
+New Zealand,Choco Coated Almonds,2022-06-07,2093.0,45,Nut-based Chocolate,6,7,June,47.0
+New Zealand,Smooth Sliky Salty,2022-01-18,1015.0,27,Specialty Chocolate,1,18,January,38.0
+Australia,Baker's Choco Chips,2022-01-04,12516.0,212,Specialty Chocolate,1,4,January,59.0
+Australia,99% Dark & Pure,2022-01-31,2758.0,18,Dark Chocolate,1,31,January,153.0
+India,Almond Choco,2022-03-14,3297.0,149,Nut-based Chocolate,3,14,March,22.0
+Australia,70% Dark Bites,2022-04-29,6048.0,477,Dark Chocolate,4,29,April,13.0
+India,Smooth Sliky Salty,2022-02-07,10101.0,108,Specialty Chocolate,2,7,February,94.0
+UK,Organic Choco Syrup,2022-03-31,2282.0,178,Specialty Chocolate,3,31,March,13.0
+India,Caramel Stuffed Bars,2022-03-16,4361.0,81,Flavored Chocolate,3,16,March,54.0
+UK,Eclairs,2022-01-25,7798.0,196,Specialty Chocolate,1,25,January,40.0
+India,Baker's Choco Chips,2022-06-20,3052.0,447,Specialty Chocolate,6,20,June,7.0
+UK,After Nines,2022-03-29,8029.0,175,Specialty Chocolate,3,29,March,46.0
+Australia,Orange Choco,2022-07-12,854.0,136,Flavored Chocolate,7,12,July,6.0
+Canada,Smooth Sliky Salty,2022-07-11,5460.0,138,Specialty Chocolate,7,11,July,40.0
+Canada,Smooth Sliky Salty,2022-01-19,3017.0,184,Specialty Chocolate,1,19,January,16.0
+USA,85% Dark Bars,2022-04-05,8911.0,82,Dark Chocolate,4,5,April,109.0
+Canada,Milk Bars,2022-02-21,7203.0,12,Milk & White Chocolate,2,21,February,600.0
+New Zealand,Caramel Stuffed Bars,2022-05-20,13083.0,14,Flavored Chocolate,5,20,May,934.0
+Australia,Milk Bars,2022-07-29,2779.0,104,Milk & White Chocolate,7,29,July,27.0
+USA,Fruit & Nut Bars,2022-01-28,9058.0,46,Flavored Chocolate,1,28,January,197.0
+UK,Caramel Stuffed Bars,2022-07-19,3549.0,112,Flavored Chocolate,7,19,July,32.0
+New Zealand,Manuka Honey Choco,2022-04-13,9436.0,11,Flavored Chocolate,4,13,April,858.0
+India,Peanut Butter Cubes,2022-02-11,10283.0,21,Nut-based Chocolate,2,11,February,490.0
+New Zealand,Milk Bars,2022-03-02,5446.0,116,Milk & White Chocolate,3,2,March,47.0
+Australia,White Choc,2022-03-02,1043.0,202,Milk & White Chocolate,3,2,March,5.0
+USA,99% Dark & Pure,2022-07-28,12586.0,6,Dark Chocolate,7,28,July,2098.0
+India,After Nines,2022-01-07,1687.0,520,Specialty Chocolate,1,7,January,3.0
+UK,White Choc,2022-04-12,5299.0,167,Milk & White Chocolate,4,12,April,32.0
+Canada,Almond Choco,2022-06-27,3213.0,72,Nut-based Chocolate,6,27,June,45.0
+Australia,50% Dark Bites,2022-01-14,5194.0,418,Dark Chocolate,1,14,January,12.0
+UK,Baker's Choco Chips,2022-02-07,4753.0,389,Specialty Chocolate,2,7,February,12.0
+Australia,Orange Choco,2022-03-23,13706.0,26,Flavored Chocolate,3,23,March,527.0
+India,Peanut Butter Cubes,2022-01-10,6489.0,146,Nut-based Chocolate,1,10,January,44.0
+UK,Choco Coated Almonds,2022-03-17,9324.0,41,Nut-based Chocolate,3,17,March,227.0
+USA,Spicy Special Slims,2022-01-21,10829.0,54,Flavored Chocolate,1,21,January,201.0
+Australia,White Choc,2022-07-04,8113.0,370,Milk & White Chocolate,7,4,July,22.0
+Canada,Peanut Butter Cubes,2022-07-04,3269.0,176,Nut-based Chocolate,7,4,July,19.0
+USA,Manuka Honey Choco,2022-08-10,273.0,210,Flavored Chocolate,8,10,August,1.0
+Australia,50% Dark Bites,2022-04-01,7287.0,12,Dark Chocolate,4,1,April,607.0
+India,Raspberry Choco,2022-02-22,2583.0,159,Flavored Chocolate,2,22,February,16.0
+UK,White Choc,2022-01-03,9982.0,187,Milk & White Chocolate,1,3,January,53.0
+India,Drinking Coco,2022-05-31,4795.0,233,Specialty Chocolate,5,31,May,21.0
+UK,99% Dark & Pure,2022-01-03,9310.0,282,Dark Chocolate,1,3,January,33.0
+New Zealand,Caramel Stuffed Bars,2022-01-27,497.0,475,Flavored Chocolate,1,27,January,1.0
+UK,50% Dark Bites,2022-01-28,581.0,65,Dark Chocolate,1,28,January,9.0
+Australia,Organic Choco Syrup,2022-06-28,3472.0,311,Specialty Chocolate,6,28,June,11.0
+UK,Choco Coated Almonds,2022-03-02,4333.0,43,Nut-based Chocolate,3,2,March,101.0
+Australia,After Nines,2022-05-27,3325.0,26,Specialty Chocolate,5,27,May,128.0
+USA,Almond Choco,2022-06-30,11718.0,84,Nut-based Chocolate,6,30,June,140.0
+Canada,Peanut Butter Cubes,2022-06-07,2100.0,78,Nut-based Chocolate,6,7,June,27.0
+USA,70% Dark Bites,2022-05-12,4018.0,100,Dark Chocolate,5,12,May,40.0
+New Zealand,Raspberry Choco,2022-07-29,6468.0,66,Flavored Chocolate,7,29,July,98.0
+UK,White Choc,2022-08-03,7238.0,265,Milk & White Chocolate,8,3,August,27.0
+India,Baker's Choco Chips,2022-08-18,6454.0,141,Specialty Chocolate,8,18,August,46.0
+New Zealand,Smooth Sliky Salty,2022-06-14,3115.0,42,Specialty Chocolate,6,14,June,74.0
+UK,White Choc,2022-06-30,6475.0,76,Milk & White Chocolate,6,30,June,85.0
+New Zealand,Mint Chip Choco,2022-06-13,1162.0,190,Flavored Chocolate,6,13,June,6.0
+UK,Orange Choco,2022-04-27,14238.0,54,Flavored Chocolate,4,27,April,264.0
+Australia,White Choc,2022-07-27,3472.0,32,Milk & White Chocolate,7,27,July,108.0
+Canada,85% Dark Bars,2022-04-20,1428.0,424,Dark Chocolate,4,20,April,3.0
+India,Spicy Special Slims,2022-01-04,8064.0,134,Flavored Chocolate,1,4,January,60.0
+Australia,Mint Chip Choco,2022-02-21,9660.0,92,Flavored Chocolate,2,21,February,105.0
+Australia,White Choc,2022-01-05,7357.0,48,Milk & White Chocolate,1,5,January,153.0
+India,Drinking Coco,2022-07-15,6055.0,46,Specialty Chocolate,7,15,July,132.0
+Australia,Choco Coated Almonds,2022-05-25,5124.0,62,Nut-based Chocolate,5,25,May,83.0
+Canada,Eclairs,2022-04-20,3479.0,358,Specialty Chocolate,4,20,April,10.0
+USA,99% Dark & Pure,2022-06-02,784.0,249,Dark Chocolate,6,2,June,3.0
+UK,Smooth Sliky Salty,2022-05-13,18991.0,88,Specialty Chocolate,5,13,May,216.0
+New Zealand,Baker's Choco Chips,2022-08-03,1372.0,144,Specialty Chocolate,8,3,August,10.0
+Australia,Milk Bars,2022-05-25,735.0,390,Milk & White Chocolate,5,25,May,2.0
+UK,Raspberry Choco,2022-03-16,6538.0,79,Flavored Chocolate,3,16,March,83.0
+Australia,Orange Choco,2022-07-04,3199.0,122,Flavored Chocolate,7,4,July,26.0
+India,50% Dark Bites,2022-07-05,3472.0,135,Dark Chocolate,7,5,July,26.0
+USA,After Nines,2022-03-15,4571.0,430,Specialty Chocolate,3,15,March,11.0
+UK,Raspberry Choco,2022-08-22,5481.0,69,Flavored Chocolate,8,22,August,79.0
+Australia,70% Dark Bites,2022-01-12,3136.0,125,Dark Chocolate,1,12,January,25.0
+UK,Baker's Choco Chips,2022-06-10,252.0,154,Specialty Chocolate,6,10,June,2.0
+Australia,Peanut Butter Cubes,2022-03-25,5460.0,286,Nut-based Chocolate,3,25,March,19.0
+India,Almond Choco,2022-07-27,3395.0,99,Nut-based Chocolate,7,27,July,34.0
+UK,Caramel Stuffed Bars,2022-04-15,14938.0,433,Flavored Chocolate,4,15,April,34.0
+India,Orange Choco,2022-06-27,4053.0,19,Flavored Chocolate,6,27,June,213.0
+UK,70% Dark Bites,2022-04-14,5565.0,258,Dark Chocolate,4,14,April,22.0
+Australia,Manuka Honey Choco,2022-03-15,7161.0,92,Flavored Chocolate,3,15,March,78.0
+USA,Eclairs,2022-03-18,8883.0,200,Specialty Chocolate,3,18,March,44.0
+India,Eclairs,2022-04-29,1351.0,61,Specialty Chocolate,4,29,April,22.0
+New Zealand,White Choc,2022-02-25,3171.0,246,Milk & White Chocolate,2,25,February,13.0
+USA,Milk Bars,2022-03-02,854.0,56,Milk & White Chocolate,3,2,March,15.0
+Australia,Milk Bars,2022-06-20,7910.0,87,Milk & White Chocolate,6,20,June,91.0
+Canada,White Choc,2022-07-15,9275.0,173,Milk & White Chocolate,7,15,July,54.0
+Australia,50% Dark Bites,2022-05-12,3108.0,252,Dark Chocolate,5,12,May,12.0
+New Zealand,Organic Choco Syrup,2022-07-01,5075.0,256,Specialty Chocolate,7,1,July,20.0
+USA,85% Dark Bars,2022-08-08,378.0,54,Dark Chocolate,8,8,August,7.0
+Australia,50% Dark Bites,2022-07-25,7350.0,6,Dark Chocolate,7,25,July,1225.0
+UK,Drinking Coco,2022-05-18,3388.0,55,Specialty Chocolate,5,18,May,62.0
+India,Peanut Butter Cubes,2022-07-15,11837.0,277,Nut-based Chocolate,7,15,July,43.0
+India,70% Dark Bites,2022-07-05,2282.0,44,Dark Chocolate,7,5,July,52.0
+USA,Manuka Honey Choco,2022-07-04,5425.0,96,Flavored Chocolate,7,4,July,57.0
+UK,70% Dark Bites,2022-06-20,1267.0,216,Dark Chocolate,6,20,June,6.0
+Australia,Almond Choco,2022-01-25,3752.0,424,Nut-based Chocolate,1,25,January,9.0
+New Zealand,Spicy Special Slims,2022-07-01,7728.0,37,Flavored Chocolate,7,1,July,209.0
+USA,50% Dark Bites,2022-04-13,2296.0,59,Dark Chocolate,4,13,April,39.0
+UK,Smooth Sliky Salty,2022-05-04,4403.0,76,Specialty Chocolate,5,4,May,58.0
+Australia,Baker's Choco Chips,2022-08-04,3192.0,109,Specialty Chocolate,8,4,August,29.0
+India,70% Dark Bites,2022-06-01,448.0,146,Dark Chocolate,6,1,June,3.0
+UK,Choco Coated Almonds,2022-04-22,4270.0,185,Nut-based Chocolate,4,22,April,23.0
+USA,50% Dark Bites,2022-08-03,70.0,27,Dark Chocolate,8,3,August,3.0
+USA,Orange Choco,2022-06-10,1743.0,69,Flavored Chocolate,6,10,June,25.0
+UK,Manuka Honey Choco,2022-06-27,6762.0,46,Flavored Chocolate,6,27,June,147.0
+Australia,Smooth Sliky Salty,2022-01-03,3745.0,170,Specialty Chocolate,1,3,January,22.0
+India,After Nines,2022-07-11,2639.0,179,Specialty Chocolate,7,11,July,15.0
+New Zealand,Milk Bars,2022-08-17,4389.0,126,Milk & White Chocolate,8,17,August,35.0
+USA,Fruit & Nut Bars,2022-01-18,2604.0,65,Flavored Chocolate,1,18,January,40.0
+India,Organic Choco Syrup,2022-03-08,16569.0,99,Specialty Chocolate,3,8,March,167.0
+Australia,Orange Choco,2022-03-07,14658.0,275,Flavored Chocolate,3,7,March,53.0
+India,70% Dark Bites,2022-05-09,6454.0,157,Dark Chocolate,5,9,May,41.0
+New Zealand,85% Dark Bars,2022-05-23,2100.0,157,Dark Chocolate,5,23,May,13.0
+UK,Caramel Stuffed Bars,2022-04-15,161.0,145,Flavored Chocolate,4,15,April,1.0
+Australia,Drinking Coco,2022-07-27,2807.0,139,Specialty Chocolate,7,27,July,20.0
+Canada,Choco Coated Almonds,2022-08-22,2639.0,406,Nut-based Chocolate,8,22,August,6.0
+USA,70% Dark Bites,2022-05-11,4571.0,122,Dark Chocolate,5,11,May,37.0
+India,Organic Choco Syrup,2022-01-26,4781.0,38,Specialty Chocolate,1,26,January,126.0
+USA,50% Dark Bites,2022-04-14,13034.0,117,Dark Chocolate,4,14,April,111.0
+New Zealand,Mint Chip Choco,2022-04-05,6454.0,417,Flavored Chocolate,4,5,April,15.0
+New Zealand,Smooth Sliky Salty,2022-06-14,8484.0,57,Specialty Chocolate,6,14,June,149.0
+Canada,Almond Choco,2022-04-13,4781.0,125,Nut-based Chocolate,4,13,April,38.0
+Australia,White Choc,2022-06-27,2240.0,166,Milk & White Chocolate,6,27,June,13.0
+Australia,Eclairs,2022-01-26,6979.0,3,Specialty Chocolate,1,26,January,2326.0
+UK,White Choc,2022-07-05,1652.0,72,Milk & White Chocolate,7,5,July,23.0
+Canada,Baker's Choco Chips,2022-01-11,13447.0,95,Specialty Chocolate,1,11,January,142.0
+USA,White Choc,2022-03-07,9422.0,22,Milk & White Chocolate,3,7,March,428.0
+Canada,50% Dark Bites,2022-03-04,8687.0,100,Dark Chocolate,3,4,March,87.0
+Canada,Organic Choco Syrup,2022-07-15,2415.0,312,Specialty Chocolate,7,15,July,8.0
+UK,Peanut Butter Cubes,2022-05-11,6272.0,86,Nut-based Chocolate,5,11,May,73.0
+USA,Milk Bars,2022-01-27,4389.0,7,Milk & White Chocolate,1,27,January,627.0
+India,Orange Choco,2022-06-27,3122.0,149,Flavored Chocolate,6,27,June,21.0
+India,Smooth Sliky Salty,2022-08-03,8043.0,18,Specialty Chocolate,8,3,August,447.0
+New Zealand,Mint Chip Choco,2022-08-19,11662.0,242,Flavored Chocolate,8,19,August,48.0
+Australia,Fruit & Nut Bars,2022-06-15,392.0,102,Flavored Chocolate,6,15,June,4.0
+UK,Peanut Butter Cubes,2022-02-07,8925.0,158,Nut-based Chocolate,2,7,February,56.0
+Australia,Almond Choco,2022-07-08,7294.0,128,Nut-based Chocolate,7,8,July,57.0
+India,Milk Bars,2022-04-21,1526.0,96,Milk & White Chocolate,4,21,April,16.0
+UK,Mint Chip Choco,2022-04-08,2688.0,209,Flavored Chocolate,4,8,April,13.0
+Australia,50% Dark Bites,2022-08-19,14889.0,52,Dark Chocolate,8,19,August,286.0
+India,Fruit & Nut Bars,2022-05-04,2912.0,55,Flavored Chocolate,5,4,May,53.0
+USA,85% Dark Bars,2022-05-11,2632.0,108,Dark Chocolate,5,11,May,24.0
+USA,Eclairs,2022-03-22,6328.0,51,Specialty Chocolate,3,22,March,124.0
+Canada,Spicy Special Slims,2022-08-10,2527.0,216,Flavored Chocolate,8,10,August,12.0
+USA,Fruit & Nut Bars,2022-05-04,1414.0,318,Flavored Chocolate,5,4,May,4.0
+USA,99% Dark & Pure,2022-08-18,7714.0,238,Dark Chocolate,8,18,August,32.0
+Canada,Raspberry Choco,2022-08-03,4347.0,238,Flavored Chocolate,8,3,August,18.0
+New Zealand,Milk Bars,2022-01-14,7490.0,315,Milk & White Chocolate,1,14,January,24.0
+Australia,Choco Coated Almonds,2022-04-08,2058.0,72,Nut-based Chocolate,4,8,April,29.0
+UK,Orange Choco,2022-08-01,3640.0,3,Flavored Chocolate,8,1,August,1213.0
+Canada,Eclairs,2022-03-15,455.0,45,Specialty Chocolate,3,15,March,10.0
+India,Mint Chip Choco,2022-07-15,10990.0,184,Flavored Chocolate,7,15,July,60.0
+New Zealand,Almond Choco,2022-01-13,5558.0,127,Nut-based Chocolate,1,13,January,44.0
+Australia,85% Dark Bars,2022-08-26,2541.0,53,Dark Chocolate,8,26,August,48.0
+Canada,Eclairs,2022-01-10,1876.0,172,Specialty Chocolate,1,10,January,11.0
+Australia,White Choc,2022-05-11,5523.0,87,Milk & White Chocolate,5,11,May,63.0
+New Zealand,85% Dark Bars,2022-08-30,11200.0,22,Dark Chocolate,8,30,August,509.0
+USA,Caramel Stuffed Bars,2022-07-21,5593.0,122,Flavored Chocolate,7,21,July,46.0
+Australia,Almond Choco,2022-08-01,7882.0,125,Nut-based Chocolate,8,1,August,63.0
+Canada,85% Dark Bars,2022-02-17,10241.0,259,Dark Chocolate,2,17,February,40.0
+Australia,Drinking Coco,2022-07-27,6832.0,156,Specialty Chocolate,7,27,July,44.0
+USA,Orange Choco,2022-02-23,1379.0,107,Flavored Chocolate,2,23,February,13.0
+Australia,50% Dark Bites,2022-03-22,3010.0,40,Dark Chocolate,3,22,March,75.0
+India,99% Dark & Pure,2022-06-23,6888.0,311,Dark Chocolate,6,23,June,22.0
+UK,White Choc,2022-02-01,1540.0,73,Milk & White Chocolate,2,1,February,21.0
+Australia,After Nines,2022-03-02,6916.0,288,Specialty Chocolate,3,2,March,24.0
+UK,Fruit & Nut Bars,2022-04-06,1232.0,86,Flavored Chocolate,4,6,April,14.0
+Australia,Raspberry Choco,2022-03-17,602.0,72,Flavored Chocolate,3,17,March,8.0
+UK,Fruit & Nut Bars,2022-06-24,10927.0,136,Flavored Chocolate,6,24,June,80.0
+Canada,50% Dark Bites,2022-07-19,10185.0,303,Dark Chocolate,7,19,July,34.0
+USA,Spicy Special Slims,2022-07-11,1603.0,264,Flavored Chocolate,7,11,July,6.0
+India,Almond Choco,2022-01-13,2170.0,218,Nut-based Chocolate,1,13,January,10.0
+New Zealand,Smooth Sliky Salty,2022-07-07,8673.0,60,Specialty Chocolate,7,7,July,145.0
+India,85% Dark Bars,2022-05-25,4760.0,418,Dark Chocolate,5,25,May,11.0
+India,Fruit & Nut Bars,2022-04-13,4753.0,151,Flavored Chocolate,4,13,April,31.0
+New Zealand,50% Dark Bites,2022-03-02,3374.0,202,Dark Chocolate,3,2,March,17.0
+Canada,Raspberry Choco,2022-06-23,2058.0,126,Flavored Chocolate,6,23,June,16.0
+USA,Drinking Coco,2022-07-26,6454.0,160,Specialty Chocolate,7,26,July,40.0
+Canada,White Choc,2022-03-22,420.0,3,Milk & White Chocolate,3,22,March,140.0
+USA,Baker's Choco Chips,2022-06-09,2863.0,58,Specialty Chocolate,6,9,June,49.0
+Australia,Caramel Stuffed Bars,2022-05-17,5936.0,59,Flavored Chocolate,5,17,May,101.0
+New Zealand,Peanut Butter Cubes,2022-03-04,889.0,273,Nut-based Chocolate,3,4,March,3.0
+Canada,Milk Bars,2022-07-07,16016.0,28,Milk & White Chocolate,7,7,July,572.0
+Canada,Choco Coated Almonds,2022-01-13,10479.0,118,Nut-based Chocolate,1,13,January,89.0
+Australia,Almond Choco,2022-07-13,2912.0,75,Nut-based Chocolate,7,13,July,39.0
+Australia,85% Dark Bars,2022-06-16,1575.0,329,Dark Chocolate,6,16,June,5.0
+UK,50% Dark Bites,2022-07-18,8197.0,69,Dark Chocolate,7,18,July,119.0
+UK,Manuka Honey Choco,2022-05-30,4221.0,395,Flavored Chocolate,5,30,May,11.0
+UK,70% Dark Bites,2022-06-21,840.0,81,Dark Chocolate,6,21,June,10.0
+Australia,Peanut Butter Cubes,2022-06-24,5691.0,38,Nut-based Chocolate,6,24,June,150.0
+India,Eclairs,2022-01-13,3472.0,96,Specialty Chocolate,1,13,January,36.0
+Canada,Fruit & Nut Bars,2022-04-04,4193.0,195,Flavored Chocolate,4,4,April,22.0
+UK,Smooth Sliky Salty,2022-06-08,9016.0,554,Specialty Chocolate,6,8,June,16.0
+Canada,Spicy Special Slims,2022-08-02,6328.0,47,Flavored Chocolate,8,2,August,135.0
+USA,Organic Choco Syrup,2022-07-21,9870.0,152,Specialty Chocolate,7,21,July,65.0
+India,Spicy Special Slims,2022-06-20,161.0,134,Flavored Chocolate,6,20,June,1.0
+India,After Nines,2022-06-22,2576.0,112,Specialty Chocolate,6,22,June,23.0
+Australia,Caramel Stuffed Bars,2022-05-02,3178.0,16,Flavored Chocolate,5,2,May,199.0
+Australia,99% Dark & Pure,2022-01-07,4676.0,84,Dark Chocolate,1,7,January,56.0
+UK,50% Dark Bites,2022-02-21,5502.0,99,Dark Chocolate,2,21,February,56.0
+Canada,Baker's Choco Chips,2022-03-21,7462.0,371,Specialty Chocolate,3,21,March,20.0
+UK,Drinking Coco,2022-04-04,5803.0,136,Specialty Chocolate,4,4,April,43.0
+Canada,Fruit & Nut Bars,2022-03-24,13888.0,203,Flavored Chocolate,3,24,March,68.0
+New Zealand,Spicy Special Slims,2022-06-28,6867.0,183,Flavored Chocolate,6,28,June,38.0
+Australia,Drinking Coco,2022-01-14,2317.0,195,Specialty Chocolate,1,14,January,12.0
+New Zealand,Fruit & Nut Bars,2022-02-07,1218.0,135,Flavored Chocolate,2,7,February,9.0
+New Zealand,Drinking Coco,2022-01-11,4109.0,197,Specialty Chocolate,1,11,January,21.0
+India,99% Dark & Pure,2022-02-25,1953.0,242,Dark Chocolate,2,25,February,8.0
+Australia,Mint Chip Choco,2022-08-01,6790.0,25,Flavored Chocolate,8,1,August,272.0
+Australia,Mint Chip Choco,2022-05-05,6797.0,252,Flavored Chocolate,5,5,May,27.0
+New Zealand,Raspberry Choco,2022-05-18,9226.0,415,Flavored Chocolate,5,18,May,22.0
+New Zealand,Choco Coated Almonds,2022-01-04,5733.0,348,Nut-based Chocolate,1,4,January,16.0
+New Zealand,50% Dark Bites,2022-05-09,4312.0,211,Dark Chocolate,5,9,May,20.0
+India,Smooth Sliky Salty,2022-05-06,1638.0,81,Specialty Chocolate,5,6,May,20.0
+UK,White Choc,2022-01-13,10815.0,145,Milk & White Chocolate,1,13,January,75.0
+Australia,Almond Choco,2022-06-24,4466.0,74,Nut-based Chocolate,6,24,June,60.0
+USA,Caramel Stuffed Bars,2022-02-14,987.0,21,Flavored Chocolate,2,14,February,47.0
+Australia,99% Dark & Pure,2022-01-18,4669.0,101,Dark Chocolate,1,18,January,46.0
+India,Milk Bars,2022-05-02,2905.0,91,Milk & White Chocolate,5,2,May,32.0
+Australia,Smooth Sliky Salty,2022-05-16,7490.0,54,Specialty Chocolate,5,16,May,139.0
+USA,Almond Choco,2022-01-28,6986.0,368,Nut-based Chocolate,1,28,January,19.0
+Canada,99% Dark & Pure,2022-06-24,1288.0,409,Dark Chocolate,6,24,June,3.0
+UK,After Nines,2022-07-18,2345.0,104,Specialty Chocolate,7,18,July,23.0
+UK,Eclairs,2022-04-13,3619.0,164,Specialty Chocolate,4,13,April,22.0
+USA,Caramel Stuffed Bars,2022-04-15,16982.0,76,Flavored Chocolate,4,15,April,223.0
+India,Peanut Butter Cubes,2022-01-04,8092.0,178,Nut-based Chocolate,1,4,January,45.0
+Australia,Eclairs,2022-07-04,6993.0,31,Specialty Chocolate,7,4,July,226.0
+USA,Smooth Sliky Salty,2022-03-24,2317.0,352,Specialty Chocolate,3,24,March,7.0
+Australia,Manuka Honey Choco,2022-03-17,637.0,169,Flavored Chocolate,3,17,March,4.0
+Australia,Almond Choco,2022-02-15,6034.0,223,Nut-based Chocolate,2,15,February,27.0
+USA,Orange Choco,2022-06-29,980.0,146,Flavored Chocolate,6,29,June,7.0
+USA,Fruit & Nut Bars,2022-05-24,2821.0,112,Flavored Chocolate,5,24,May,25.0
+UK,Milk Bars,2022-01-10,3563.0,284,Milk & White Chocolate,1,10,January,13.0
+USA,Raspberry Choco,2022-03-15,2996.0,139,Flavored Chocolate,3,15,March,22.0
+Canada,Milk Bars,2022-02-08,2436.0,309,Milk & White Chocolate,2,8,February,8.0
+India,Caramel Stuffed Bars,2022-02-25,1540.0,100,Flavored Chocolate,2,25,February,15.0
+USA,Eclairs,2022-05-03,6916.0,42,Specialty Chocolate,5,3,May,165.0
+USA,Fruit & Nut Bars,2022-06-14,5509.0,24,Flavored Chocolate,6,14,June,230.0
+India,50% Dark Bites,2022-08-09,12992.0,83,Dark Chocolate,8,9,August,157.0
+New Zealand,Manuka Honey Choco,2022-07-11,3724.0,234,Flavored Chocolate,7,11,July,16.0
+UK,Manuka Honey Choco,2022-01-14,7133.0,118,Flavored Chocolate,1,14,January,60.0
+Canada,Manuka Honey Choco,2022-02-24,8617.0,46,Flavored Chocolate,2,24,February,187.0
+New Zealand,Almond Choco,2022-03-15,9198.0,144,Nut-based Chocolate,3,15,March,64.0
+New Zealand,Baker's Choco Chips,2022-04-25,11823.0,47,Specialty Chocolate,4,25,April,252.0
+Australia,Organic Choco Syrup,2022-05-10,5775.0,41,Specialty Chocolate,5,10,May,141.0
+Australia,Spicy Special Slims,2022-06-23,13125.0,275,Flavored Chocolate,6,23,June,48.0
+Canada,Smooth Sliky Salty,2022-02-28,14287.0,370,Specialty Chocolate,2,28,February,39.0
+USA,Organic Choco Syrup,2022-05-25,16233.0,138,Specialty Chocolate,5,25,May,118.0
+New Zealand,Baker's Choco Chips,2022-02-22,5313.0,215,Specialty Chocolate,2,22,February,25.0
+UK,85% Dark Bars,2022-07-11,3577.0,134,Dark Chocolate,7,11,July,27.0
+Canada,Spicy Special Slims,2022-01-03,3528.0,336,Flavored Chocolate,1,3,January,10.0
+New Zealand,70% Dark Bites,2022-08-24,679.0,280,Dark Chocolate,8,24,August,2.0
+USA,50% Dark Bites,2022-07-28,2450.0,352,Dark Chocolate,7,28,July,7.0
+USA,Mint Chip Choco,2022-05-25,10577.0,150,Flavored Chocolate,5,25,May,71.0
+New Zealand,Eclairs,2022-05-06,2597.0,177,Specialty Chocolate,5,6,May,15.0
+India,Drinking Coco,2022-01-28,2219.0,142,Specialty Chocolate,1,28,January,16.0
+UK,Orange Choco,2022-06-06,11319.0,12,Flavored Chocolate,6,6,June,943.0
+New Zealand,Baker's Choco Chips,2022-07-12,5978.0,24,Specialty Chocolate,7,12,July,249.0
+Canada,Spicy Special Slims,2022-08-05,5327.0,183,Flavored Chocolate,8,5,August,29.0
+USA,Orange Choco,2022-01-28,6020.0,147,Flavored Chocolate,1,28,January,41.0
+India,Spicy Special Slims,2022-08-31,5614.0,137,Flavored Chocolate,8,31,August,41.0
+USA,50% Dark Bites,2022-04-19,1736.0,13,Dark Chocolate,4,19,April,134.0
+UK,Mint Chip Choco,2022-06-29,6384.0,2,Flavored Chocolate,6,29,June,3192.0
+India,Choco Coated Almonds,2022-02-24,3577.0,261,Nut-based Chocolate,2,24,February,14.0
+UK,Smooth Sliky Salty,2022-03-04,14539.0,84,Specialty Chocolate,3,4,March,173.0
+India,Eclairs,2022-06-21,3493.0,68,Specialty Chocolate,6,21,June,51.0
+Australia,Organic Choco Syrup,2022-01-26,994.0,105,Specialty Chocolate,1,26,January,9.0
+New Zealand,White Choc,2022-06-10,4361.0,40,Milk & White Chocolate,6,10,June,109.0
+UK,Drinking Coco,2022-05-23,1554.0,65,Specialty Chocolate,5,23,May,24.0
+India,Milk Bars,2022-04-15,966.0,107,Milk & White Chocolate,4,15,April,9.0
+New Zealand,Caramel Stuffed Bars,2022-01-31,5334.0,227,Flavored Chocolate,1,31,January,23.0
+New Zealand,Organic Choco Syrup,2022-03-04,4935.0,39,Specialty Chocolate,3,4,March,127.0
+New Zealand,After Nines,2022-04-19,10024.0,84,Specialty Chocolate,4,19,April,119.0
+UK,Almond Choco,2022-05-16,2506.0,100,Nut-based Chocolate,5,16,May,25.0
+Australia,Raspberry Choco,2022-02-17,1043.0,120,Flavored Chocolate,2,17,February,9.0
+USA,Raspberry Choco,2022-01-18,6524.0,257,Flavored Chocolate,1,18,January,25.0
+Canada,Orange Choco,2022-02-09,8148.0,85,Flavored Chocolate,2,9,February,96.0
+Canada,Orange Choco,2022-03-23,3577.0,178,Flavored Chocolate,3,23,March,20.0
+New Zealand,Caramel Stuffed Bars,2022-02-01,3374.0,151,Flavored Chocolate,2,1,February,22.0
+India,Drinking Coco,2022-03-07,3948.0,142,Specialty Chocolate,3,7,March,28.0
+UK,White Choc,2022-01-03,3269.0,226,Milk & White Chocolate,1,3,January,14.0
+USA,White Choc,2022-02-11,5271.0,341,Milk & White Chocolate,2,11,February,15.0
+New Zealand,Orange Choco,2022-03-16,4571.0,140,Flavored Chocolate,3,16,March,33.0
+India,White Choc,2022-08-15,12327.0,330,Milk & White Chocolate,8,15,August,37.0
+India,Manuka Honey Choco,2022-05-12,4935.0,73,Flavored Chocolate,5,12,May,68.0
+India,Spicy Special Slims,2022-04-11,6167.0,4,Flavored Chocolate,4,11,April,1542.0
+New Zealand,Mint Chip Choco,2022-06-30,18340.0,285,Flavored Chocolate,6,30,June,64.0
+New Zealand,White Choc,2022-06-15,7014.0,60,Milk & White Chocolate,6,15,June,117.0
+Canada,Caramel Stuffed Bars,2022-08-01,7119.0,101,Flavored Chocolate,8,1,August,70.0
+USA,Milk Bars,2022-06-15,15491.0,58,Milk & White Chocolate,6,15,June,267.0
+India,After Nines,2022-06-16,5747.0,45,Specialty Chocolate,6,16,June,128.0
+New Zealand,Raspberry Choco,2022-05-13,4550.0,281,Flavored Chocolate,5,13,May,16.0
+USA,Drinking Coco,2022-05-10,2191.0,138,Specialty Chocolate,5,10,May,16.0
+India,Eclairs,2022-08-25,5663.0,322,Specialty Chocolate,8,25,August,18.0
+New Zealand,Organic Choco Syrup,2022-07-15,7623.0,85,Specialty Chocolate,7,15,July,90.0
+UK,Baker's Choco Chips,2022-05-16,9023.0,409,Specialty Chocolate,5,16,May,22.0
+Australia,50% Dark Bites,2022-06-14,3402.0,182,Dark Chocolate,6,14,June,19.0
+Australia,Smooth Sliky Salty,2022-01-25,10507.0,467,Specialty Chocolate,1,25,January,22.0
+USA,Organic Choco Syrup,2022-07-28,7721.0,14,Specialty Chocolate,7,28,July,552.0
+Canada,Mint Chip Choco,2022-01-28,5033.0,178,Flavored Chocolate,1,28,January,28.0
+UK,Orange Choco,2022-06-29,1960.0,191,Flavored Chocolate,6,29,June,10.0
+Australia,70% Dark Bites,2022-06-24,238.0,317,Dark Chocolate,6,24,June,1.0
+Canada,Mint Chip Choco,2022-07-01,7756.0,410,Flavored Chocolate,7,1,July,19.0
+USA,Peanut Butter Cubes,2022-02-25,1736.0,137,Nut-based Chocolate,2,25,February,13.0
+Canada,Smooth Sliky Salty,2022-08-01,2660.0,12,Specialty Chocolate,8,1,August,222.0
+Australia,Milk Bars,2022-06-21,7672.0,254,Milk & White Chocolate,6,21,June,30.0
+New Zealand,Spicy Special Slims,2022-01-25,11564.0,24,Flavored Chocolate,1,25,January,482.0
+UK,Milk Bars,2022-05-17,1365.0,232,Milk & White Chocolate,5,17,May,6.0
+Australia,85% Dark Bars,2022-08-23,4186.0,233,Dark Chocolate,8,23,August,18.0
+Australia,Smooth Sliky Salty,2022-03-03,7406.0,118,Specialty Chocolate,3,3,March,63.0
+India,Caramel Stuffed Bars,2022-05-30,8911.0,543,Flavored Chocolate,5,30,May,16.0
+USA,Drinking Coco,2022-06-29,112.0,223,Specialty Chocolate,6,29,June,1.0
+Canada,Organic Choco Syrup,2022-01-04,8204.0,204,Specialty Chocolate,1,4,January,40.0
+Australia,Drinking Coco,2022-01-14,2611.0,65,Specialty Chocolate,1,14,January,40.0
+USA,Mint Chip Choco,2022-02-15,15652.0,53,Flavored Chocolate,2,15,February,295.0
+New Zealand,Spicy Special Slims,2022-01-10,4074.0,469,Flavored Chocolate,1,10,January,9.0
+USA,White Choc,2022-05-04,12250.0,213,Milk & White Chocolate,5,4,May,58.0
+USA,Spicy Special Slims,2022-05-23,2366.0,5,Flavored Chocolate,5,23,May,473.0
+New Zealand,Fruit & Nut Bars,2022-04-26,1687.0,147,Flavored Chocolate,4,26,April,11.0
+Canada,Organic Choco Syrup,2022-07-05,1232.0,74,Specialty Chocolate,7,5,July,17.0
+UK,Organic Choco Syrup,2022-07-21,6965.0,163,Specialty Chocolate,7,21,July,43.0
+USA,Mint Chip Choco,2022-02-21,5292.0,248,Flavored Chocolate,2,21,February,21.0
+USA,Orange Choco,2022-02-03,1379.0,138,Flavored Chocolate,2,3,February,10.0
+Australia,Caramel Stuffed Bars,2022-07-08,8001.0,151,Flavored Chocolate,7,8,July,53.0
+India,50% Dark Bites,2022-05-31,588.0,139,Dark Chocolate,5,31,May,4.0
+New Zealand,Mint Chip Choco,2022-06-27,4046.0,103,Flavored Chocolate,6,27,June,39.0
+India,50% Dark Bites,2022-05-13,5103.0,129,Dark Chocolate,5,13,May,40.0
+USA,Manuka Honey Choco,2022-05-31,2317.0,102,Flavored Chocolate,5,31,May,23.0
+USA,Orange Choco,2022-02-28,7042.0,37,Flavored Chocolate,2,28,February,190.0
+New Zealand,Eclairs,2022-03-28,6713.0,31,Specialty Chocolate,3,28,March,217.0
+USA,After Nines,2022-01-14,1848.0,227,Specialty Chocolate,1,14,January,8.0
+New Zealand,Mint Chip Choco,2022-02-21,6440.0,145,Flavored Chocolate,2,21,February,44.0
+Canada,85% Dark Bars,2022-08-01,10885.0,90,Dark Chocolate,8,1,August,121.0
+New Zealand,Smooth Sliky Salty,2022-05-19,2387.0,59,Specialty Chocolate,5,19,May,40.0
+USA,White Choc,2022-07-13,2030.0,60,Milk & White Chocolate,7,13,July,34.0
+Australia,Peanut Butter Cubes,2022-04-20,6678.0,148,Nut-based Chocolate,4,20,April,45.0
+India,85% Dark Bars,2022-06-30,4515.0,22,Dark Chocolate,6,30,June,205.0
+UK,50% Dark Bites,2022-03-08,3374.0,142,Dark Chocolate,3,8,March,24.0
+USA,Fruit & Nut Bars,2022-03-09,5852.0,93,Flavored Chocolate,3,9,March,63.0
+Canada,Raspberry Choco,2022-06-16,1750.0,208,Flavored Chocolate,6,16,June,8.0
+UK,Drinking Coco,2022-06-30,5782.0,42,Specialty Chocolate,6,30,June,138.0
+India,Mint Chip Choco,2022-07-28,2870.0,120,Flavored Chocolate,7,28,July,24.0
+Canada,Peanut Butter Cubes,2022-08-12,3094.0,159,Nut-based Chocolate,8,12,August,19.0
+UK,Mint Chip Choco,2022-07-07,3724.0,316,Flavored Chocolate,7,7,July,12.0
+USA,85% Dark Bars,2022-08-25,12761.0,47,Dark Chocolate,8,25,August,272.0
+Canada,Eclairs,2022-01-17,3696.0,233,Specialty Chocolate,1,17,January,16.0
+Australia,70% Dark Bites,2022-03-04,5222.0,384,Dark Chocolate,3,4,March,14.0
+New Zealand,Fruit & Nut Bars,2022-08-25,8939.0,4,Flavored Chocolate,8,25,August,2235.0
+UK,Peanut Butter Cubes,2022-04-15,2156.0,260,Nut-based Chocolate,4,15,April,8.0
+USA,Organic Choco Syrup,2022-03-11,2380.0,22,Specialty Chocolate,3,11,March,108.0
+USA,Raspberry Choco,2022-05-20,3339.0,18,Flavored Chocolate,5,20,May,186.0
+New Zealand,Manuka Honey Choco,2022-06-14,14980.0,42,Flavored Chocolate,6,14,June,357.0
+New Zealand,After Nines,2022-04-14,1512.0,73,Specialty Chocolate,4,14,April,21.0
+USA,Smooth Sliky Salty,2022-07-07,6657.0,154,Specialty Chocolate,7,7,July,43.0
+India,Mint Chip Choco,2022-08-24,3836.0,71,Flavored Chocolate,8,24,August,54.0
+India,Eclairs,2022-02-24,8771.0,127,Specialty Chocolate,2,24,February,69.0
+Canada,Raspberry Choco,2022-05-09,651.0,224,Flavored Chocolate,5,9,May,3.0
+Australia,70% Dark Bites,2022-02-08,6706.0,223,Dark Chocolate,2,8,February,30.0
+UK,70% Dark Bites,2022-03-24,1421.0,284,Dark Chocolate,3,24,March,5.0
+USA,Drinking Coco,2022-06-20,8526.0,73,Specialty Chocolate,6,20,June,117.0
+Canada,Manuka Honey Choco,2022-03-07,1435.0,112,Flavored Chocolate,3,7,March,13.0
+Australia,Fruit & Nut Bars,2022-06-20,7434.0,85,Flavored Chocolate,6,20,June,87.0
+New Zealand,Organic Choco Syrup,2022-02-17,15316.0,270,Specialty Chocolate,2,17,February,57.0
+UK,99% Dark & Pure,2022-01-26,10479.0,45,Dark Chocolate,1,26,January,233.0
+Australia,Mint Chip Choco,2022-05-02,2751.0,153,Flavored Chocolate,5,2,May,18.0
+Canada,99% Dark & Pure,2022-07-07,12586.0,7,Dark Chocolate,7,7,July,1798.0
+Australia,Baker's Choco Chips,2022-08-22,2786.0,51,Specialty Chocolate,8,22,August,55.0
+Australia,After Nines,2022-08-11,2303.0,67,Specialty Chocolate,8,11,August,34.0
+UK,99% Dark & Pure,2022-01-13,8113.0,194,Dark Chocolate,1,13,January,42.0
+Australia,50% Dark Bites,2022-03-02,12271.0,116,Dark Chocolate,3,2,March,106.0
+Australia,Choco Coated Almonds,2022-07-27,11298.0,41,Nut-based Chocolate,7,27,July,276.0
+New Zealand,Drinking Coco,2022-03-10,15855.0,111,Specialty Chocolate,3,10,March,143.0
+USA,85% Dark Bars,2022-08-23,12404.0,334,Dark Chocolate,8,23,August,37.0
+USA,Eclairs,2022-04-25,3990.0,155,Specialty Chocolate,4,25,April,26.0
+UK,Milk Bars,2022-03-07,10808.0,407,Milk & White Chocolate,3,7,March,27.0
+UK,Organic Choco Syrup,2022-07-12,4858.0,52,Specialty Chocolate,7,12,July,93.0
+USA,Orange Choco,2022-05-16,7742.0,138,Flavored Chocolate,5,16,May,56.0
+India,Smooth Sliky Salty,2022-03-02,3752.0,70,Specialty Chocolate,3,2,March,54.0
+New Zealand,85% Dark Bars,2022-05-30,1218.0,149,Dark Chocolate,5,30,May,8.0
+UK,Manuka Honey Choco,2022-06-10,10983.0,179,Flavored Chocolate,6,10,June,61.0
+USA,99% Dark & Pure,2022-07-25,6769.0,353,Dark Chocolate,7,25,July,19.0
+New Zealand,Mint Chip Choco,2022-06-09,4361.0,97,Flavored Chocolate,6,9,June,45.0
+USA,Milk Bars,2022-05-12,777.0,60,Milk & White Chocolate,5,12,May,13.0
+USA,Drinking Coco,2022-05-09,3843.0,5,Specialty Chocolate,5,9,May,769.0
+Canada,Manuka Honey Choco,2022-08-09,6930.0,182,Flavored Chocolate,8,9,August,38.0
+India,Choco Coated Almonds,2022-04-13,5733.0,114,Nut-based Chocolate,4,13,April,50.0
+USA,Caramel Stuffed Bars,2022-05-02,8393.0,46,Flavored Chocolate,5,2,May,182.0
+USA,99% Dark & Pure,2022-08-09,3822.0,320,Dark Chocolate,8,9,August,12.0
+Australia,Raspberry Choco,2022-08-23,6342.0,178,Flavored Chocolate,8,23,August,36.0
+India,Spicy Special Slims,2022-05-13,6510.0,170,Flavored Chocolate,5,13,May,38.0
+USA,Manuka Honey Choco,2022-02-01,10171.0,67,Flavored Chocolate,2,1,February,152.0
+USA,50% Dark Bites,2022-06-23,5908.0,301,Dark Chocolate,6,23,June,20.0
+UK,Choco Coated Almonds,2022-05-24,10164.0,134,Nut-based Chocolate,5,24,May,76.0
+Canada,Mint Chip Choco,2022-04-01,1064.0,211,Flavored Chocolate,4,1,April,5.0
+Canada,70% Dark Bites,2022-07-27,9716.0,151,Dark Chocolate,7,27,July,64.0
+India,Peanut Butter Cubes,2022-01-27,22050.0,208,Nut-based Chocolate,1,27,January,106.0
+India,Choco Coated Almonds,2022-08-12,2541.0,134,Nut-based Chocolate,8,12,August,19.0
+Canada,Almond Choco,2022-02-01,9989.0,49,Nut-based Chocolate,2,1,February,204.0
+India,After Nines,2022-03-02,4739.0,204,Specialty Chocolate,3,2,March,23.0
+Australia,99% Dark & Pure,2022-06-30,3185.0,34,Dark Chocolate,6,30,June,94.0
+Australia,Spicy Special Slims,2022-01-17,8225.0,91,Flavored Chocolate,1,17,January,90.0
+USA,Milk Bars,2022-07-07,14301.0,130,Milk & White Chocolate,7,7,July,110.0
+New Zealand,Mint Chip Choco,2022-01-31,1316.0,107,Flavored Chocolate,1,31,January,12.0
+UK,99% Dark & Pure,2022-08-10,3486.0,121,Dark Chocolate,8,10,August,29.0
+USA,Peanut Butter Cubes,2022-08-18,13930.0,339,Nut-based Chocolate,8,18,August,41.0
+New Zealand,White Choc,2022-06-15,5509.0,321,Milk & White Chocolate,6,15,June,17.0
+USA,Baker's Choco Chips,2022-01-26,8470.0,9,Specialty Chocolate,1,26,January,941.0
+USA,Spicy Special Slims,2022-04-29,77.0,69,Flavored Chocolate,4,29,April,1.0
+Canada,White Choc,2022-03-03,3381.0,72,Milk & White Chocolate,3,3,March,47.0
+Australia,Almond Choco,2022-02-22,4102.0,392,Nut-based Chocolate,2,22,February,10.0
+USA,Smooth Sliky Salty,2022-03-04,3577.0,158,Specialty Chocolate,3,4,March,23.0
+India,Smooth Sliky Salty,2022-07-07,2975.0,9,Specialty Chocolate,7,7,July,331.0
+New Zealand,Caramel Stuffed Bars,2022-06-17,4137.0,347,Flavored Chocolate,6,17,June,12.0
+Canada,Caramel Stuffed Bars,2022-08-02,9541.0,114,Flavored Chocolate,8,2,August,84.0
+USA,Baker's Choco Chips,2022-08-12,8001.0,120,Specialty Chocolate,8,12,August,67.0
+New Zealand,Peanut Butter Cubes,2022-01-28,5152.0,333,Nut-based Chocolate,1,28,January,15.0
+Australia,Orange Choco,2022-04-29,11116.0,432,Flavored Chocolate,4,29,April,26.0
+Australia,Manuka Honey Choco,2022-04-05,13076.0,236,Flavored Chocolate,4,5,April,55.0
+Canada,Manuka Honey Choco,2022-01-18,10213.0,135,Flavored Chocolate,1,18,January,76.0
+UK,Baker's Choco Chips,2022-05-16,2485.0,97,Specialty Chocolate,5,16,May,26.0
+Australia,White Choc,2022-08-24,8715.0,168,Milk & White Chocolate,8,24,August,52.0
+India,85% Dark Bars,2022-01-18,273.0,402,Dark Chocolate,1,18,January,1.0
+USA,Eclairs,2022-08-22,7623.0,10,Specialty Chocolate,8,22,August,762.0
+UK,99% Dark & Pure,2022-03-07,7.0,84,Dark Chocolate,3,7,March,0.0
+UK,Choco Coated Almonds,2022-03-04,3010.0,69,Nut-based Chocolate,3,4,March,44.0
+Canada,Manuka Honey Choco,2022-04-22,11550.0,111,Flavored Chocolate,4,22,April,104.0
+Australia,Milk Bars,2022-06-09,4046.0,89,Milk & White Chocolate,6,9,June,45.0
+Canada,Fruit & Nut Bars,2022-07-25,8904.0,199,Flavored Chocolate,7,25,July,45.0
+India,Smooth Sliky Salty,2022-08-03,11298.0,89,Specialty Chocolate,8,3,August,127.0
+Australia,Manuka Honey Choco,2022-08-03,4396.0,131,Flavored Chocolate,8,3,August,34.0
+UK,Milk Bars,2022-05-03,12068.0,227,Milk & White Chocolate,5,3,May,53.0
+Canada,After Nines,2022-01-19,9772.0,301,Specialty Chocolate,1,19,January,32.0
+USA,50% Dark Bites,2022-02-11,10458.0,316,Dark Chocolate,2,11,February,33.0
+India,Almond Choco,2022-06-14,6426.0,390,Nut-based Chocolate,6,14,June,16.0
+USA,50% Dark Bites,2022-03-23,6188.0,223,Dark Chocolate,3,23,March,28.0
+Canada,85% Dark Bars,2022-02-17,7504.0,101,Dark Chocolate,2,17,February,74.0
+Canada,Smooth Sliky Salty,2022-03-17,1750.0,479,Specialty Chocolate,3,17,March,4.0
+Australia,Spicy Special Slims,2022-06-29,5439.0,287,Flavored Chocolate,6,29,June,19.0
+Canada,Choco Coated Almonds,2022-08-24,15547.0,269,Nut-based Chocolate,8,24,August,58.0
+Canada,Spicy Special Slims,2022-07-04,11956.0,277,Flavored Chocolate,7,4,July,43.0
+New Zealand,Almond Choco,2022-03-28,2723.0,67,Nut-based Chocolate,3,28,March,41.0
+India,Smooth Sliky Salty,2022-04-19,19327.0,135,Specialty Chocolate,4,19,April,143.0
+New Zealand,Mint Chip Choco,2022-01-18,9058.0,229,Flavored Chocolate,1,18,January,40.0
+New Zealand,Fruit & Nut Bars,2022-01-17,2996.0,88,Flavored Chocolate,1,17,January,34.0
+New Zealand,Mint Chip Choco,2022-02-15,8848.0,211,Flavored Chocolate,2,15,February,42.0
+UK,Milk Bars,2022-02-11,14336.0,293,Milk & White Chocolate,2,11,February,49.0
+USA,Manuka Honey Choco,2022-03-21,16401.0,179,Flavored Chocolate,3,21,March,92.0
+New Zealand,Almond Choco,2022-01-05,5173.0,129,Nut-based Chocolate,1,5,January,40.0
+India,Raspberry Choco,2022-05-30,6328.0,164,Flavored Chocolate,5,30,May,39.0
+USA,99% Dark & Pure,2022-01-04,2534.0,219,Dark Chocolate,1,4,January,12.0
+Australia,Fruit & Nut Bars,2022-04-22,1435.0,258,Flavored Chocolate,4,22,April,6.0
+Canada,Milk Bars,2022-02-10,3052.0,116,Milk & White Chocolate,2,10,February,26.0
+India,Spicy Special Slims,2022-08-12,910.0,204,Flavored Chocolate,8,12,August,4.0
+USA,Organic Choco Syrup,2022-08-10,2331.0,321,Specialty Chocolate,8,10,August,7.0
+Australia,Raspberry Choco,2022-06-07,679.0,56,Flavored Chocolate,6,7,June,12.0
+India,Baker's Choco Chips,2022-06-06,2086.0,74,Specialty Chocolate,6,6,June,28.0
+New Zealand,Baker's Choco Chips,2022-04-05,5012.0,189,Specialty Chocolate,4,5,April,27.0
+USA,50% Dark Bites,2022-04-18,4501.0,131,Dark Chocolate,4,18,April,34.0
+India,50% Dark Bites,2022-01-31,13482.0,15,Dark Chocolate,1,31,January,899.0
+USA,Baker's Choco Chips,2022-08-22,5621.0,140,Specialty Chocolate,8,22,August,40.0
+Australia,99% Dark & Pure,2022-02-25,10486.0,198,Dark Chocolate,2,25,February,53.0
+Australia,Mint Chip Choco,2022-02-22,17626.0,103,Flavored Chocolate,2,22,February,171.0
+New Zealand,Milk Bars,2022-01-12,4494.0,187,Milk & White Chocolate,1,12,January,24.0
+UK,Almond Choco,2022-05-25,105.0,125,Nut-based Chocolate,5,25,May,1.0
+India,Smooth Sliky Salty,2022-02-01,2464.0,8,Specialty Chocolate,2,1,February,308.0
+UK,Eclairs,2022-04-27,1379.0,70,Specialty Chocolate,4,27,April,20.0
+USA,Smooth Sliky Salty,2022-07-22,2583.0,126,Specialty Chocolate,7,22,July,20.0
+New Zealand,Mint Chip Choco,2022-01-26,3220.0,265,Flavored Chocolate,1,26,January,12.0
+USA,Mint Chip Choco,2022-08-24,4802.0,296,Flavored Chocolate,8,24,August,16.0
+New Zealand,Fruit & Nut Bars,2022-01-18,5677.0,21,Flavored Chocolate,1,18,January,270.0
+India,85% Dark Bars,2022-03-30,945.0,83,Dark Chocolate,3,30,March,11.0
+Australia,Caramel Stuffed Bars,2022-01-17,8757.0,162,Flavored Chocolate,1,17,January,54.0
+USA,Fruit & Nut Bars,2022-02-17,4816.0,145,Flavored Chocolate,2,17,February,33.0
+Canada,Peanut Butter Cubes,2022-04-08,7532.0,44,Nut-based Chocolate,4,8,April,171.0
+Canada,Drinking Coco,2022-07-06,3549.0,82,Specialty Chocolate,7,6,July,43.0
+India,Fruit & Nut Bars,2022-04-04,4340.0,226,Flavored Chocolate,4,4,April,19.0
+New Zealand,Organic Choco Syrup,2022-03-02,1799.0,207,Specialty Chocolate,3,2,March,9.0
+New Zealand,Raspberry Choco,2022-08-09,1127.0,176,Flavored Chocolate,8,9,August,6.0
+Australia,Milk Bars,2022-06-09,10038.0,286,Milk & White Chocolate,6,9,June,35.0
+UK,Caramel Stuffed Bars,2022-06-02,2926.0,300,Flavored Chocolate,6,2,June,10.0
+USA,Fruit & Nut Bars,2022-07-05,6279.0,235,Flavored Chocolate,7,5,July,27.0
+Canada,Eclairs,2022-08-11,308.0,125,Specialty Chocolate,8,11,August,2.0
+India,Choco Coated Almonds,2022-02-11,3500.0,145,Nut-based Chocolate,2,11,February,24.0
+New Zealand,Spicy Special Slims,2022-08-11,658.0,65,Flavored Chocolate,8,11,August,10.0
+Australia,Drinking Coco,2022-05-12,12565.0,102,Specialty Chocolate,5,12,May,123.0
+USA,Milk Bars,2022-07-15,5012.0,93,Milk & White Chocolate,7,15,July,54.0
+India,Organic Choco Syrup,2022-01-18,3955.0,134,Specialty Chocolate,1,18,January,30.0
+UK,Fruit & Nut Bars,2022-01-05,8512.0,189,Flavored Chocolate,1,5,January,45.0
+Australia,50% Dark Bites,2022-06-29,504.0,232,Dark Chocolate,6,29,June,2.0
+Canada,Raspberry Choco,2022-06-14,2800.0,45,Flavored Chocolate,6,14,June,62.0
+India,Mint Chip Choco,2022-08-08,4256.0,67,Flavored Chocolate,8,8,August,64.0
+India,Mint Chip Choco,2022-03-23,13573.0,138,Flavored Chocolate,3,23,March,98.0
+India,Caramel Stuffed Bars,2022-01-04,6566.0,99,Flavored Chocolate,1,4,January,66.0
+India,Milk Bars,2022-02-22,13503.0,251,Milk & White Chocolate,2,22,February,54.0
+UK,Spicy Special Slims,2022-02-17,8680.0,252,Flavored Chocolate,2,17,February,34.0
+USA,Almond Choco,2022-02-03,385.0,78,Nut-based Chocolate,2,3,February,5.0
+Canada,Raspberry Choco,2022-03-17,1267.0,130,Flavored Chocolate,3,17,March,10.0
+Australia,Baker's Choco Chips,2022-01-25,2961.0,154,Specialty Chocolate,1,25,January,19.0
+Australia,Milk Bars,2022-07-27,1981.0,52,Milk & White Chocolate,7,27,July,38.0
+Australia,Fruit & Nut Bars,2022-01-28,7959.0,53,Flavored Chocolate,1,28,January,150.0
+Australia,Organic Choco Syrup,2022-07-05,10794.0,50,Specialty Chocolate,7,5,July,216.0
+India,White Choc,2022-03-15,1897.0,44,Milk & White Chocolate,3,15,March,43.0
+Canada,After Nines,2022-08-04,2744.0,200,Specialty Chocolate,8,4,August,14.0
+USA,Fruit & Nut Bars,2022-06-27,4382.0,361,Flavored Chocolate,6,27,June,12.0
+Canada,After Nines,2022-07-13,4515.0,172,Specialty Chocolate,7,13,July,26.0
+New Zealand,Manuka Honey Choco,2022-02-24,5474.0,239,Flavored Chocolate,2,24,February,23.0
+New Zealand,85% Dark Bars,2022-06-28,6069.0,55,Dark Chocolate,6,28,June,110.0
+Australia,85% Dark Bars,2022-06-30,6944.0,27,Dark Chocolate,6,30,June,257.0
+Canada,Choco Coated Almonds,2022-08-18,5859.0,7,Nut-based Chocolate,8,18,August,837.0
+India,70% Dark Bites,2022-01-24,12173.0,301,Dark Chocolate,1,24,January,40.0
+USA,White Choc,2022-03-11,5292.0,134,Milk & White Chocolate,3,11,March,39.0
+New Zealand,After Nines,2022-06-23,5705.0,350,Specialty Chocolate,6,23,June,16.0
+India,Spicy Special Slims,2022-08-22,2492.0,33,Flavored Chocolate,8,22,August,76.0
+Canada,50% Dark Bites,2022-01-04,3024.0,23,Dark Chocolate,1,4,January,131.0
+India,Milk Bars,2022-04-05,3437.0,201,Milk & White Chocolate,4,5,April,17.0
+India,Milk Bars,2022-04-15,1869.0,323,Milk & White Chocolate,4,15,April,6.0
+Australia,White Choc,2022-05-11,3171.0,220,Milk & White Chocolate,5,11,May,14.0
+Canada,Manuka Honey Choco,2022-07-21,4858.0,488,Flavored Chocolate,7,21,July,10.0
+New Zealand,Orange Choco,2022-02-11,1225.0,84,Flavored Chocolate,2,11,February,15.0
+Canada,Smooth Sliky Salty,2022-07-08,1155.0,79,Specialty Chocolate,7,8,July,15.0
+UK,Raspberry Choco,2022-08-11,6811.0,344,Flavored Chocolate,8,11,August,20.0
+New Zealand,After Nines,2022-08-04,6433.0,7,Specialty Chocolate,8,4,August,919.0
+New Zealand,Orange Choco,2022-06-14,8169.0,88,Flavored Chocolate,6,14,June,93.0
+UK,Baker's Choco Chips,2022-01-17,2275.0,275,Specialty Chocolate,1,17,January,8.0
+Canada,Orange Choco,2022-06-23,3857.0,512,Flavored Chocolate,6,23,June,8.0
+UK,Smooth Sliky Salty,2022-08-24,1463.0,113,Specialty Chocolate,8,24,August,13.0
+UK,Caramel Stuffed Bars,2022-06-07,7924.0,275,Flavored Chocolate,6,7,June,29.0
+UK,White Choc,2022-06-22,8799.0,47,Milk & White Chocolate,6,22,June,187.0
+USA,Fruit & Nut Bars,2022-07-13,2898.0,276,Flavored Chocolate,7,13,July,10.0
+UK,Choco Coated Almonds,2022-05-24,9506.0,212,Nut-based Chocolate,5,24,May,45.0
+New Zealand,After Nines,2022-08-09,7175.0,145,Specialty Chocolate,8,9,August,49.0
+Canada,85% Dark Bars,2022-04-06,1729.0,31,Dark Chocolate,4,6,April,56.0
+New Zealand,Manuka Honey Choco,2022-07-28,1589.0,271,Flavored Chocolate,7,28,July,6.0
+New Zealand,Raspberry Choco,2022-08-24,630.0,52,Flavored Chocolate,8,24,August,12.0
+Australia,99% Dark & Pure,2022-01-17,112.0,128,Dark Chocolate,1,17,January,1.0
+USA,Drinking Coco,2022-02-07,5187.0,142,Specialty Chocolate,2,7,February,37.0
+Australia,Spicy Special Slims,2022-05-09,6223.0,256,Flavored Chocolate,5,9,May,24.0
+New Zealand,85% Dark Bars,2022-06-06,7714.0,106,Dark Chocolate,6,6,June,73.0
+USA,Choco Coated Almonds,2022-06-06,9457.0,6,Nut-based Chocolate,6,6,June,1576.0
+New Zealand,Organic Choco Syrup,2022-05-24,6678.0,226,Specialty Chocolate,5,24,May,30.0
+UK,50% Dark Bites,2022-01-13,2107.0,121,Dark Chocolate,1,13,January,17.0
+USA,Raspberry Choco,2022-05-23,6069.0,151,Flavored Chocolate,5,23,May,40.0
+UK,White Choc,2022-06-29,1862.0,284,Milk & White Chocolate,6,29,June,7.0
+New Zealand,85% Dark Bars,2022-03-11,6972.0,89,Dark Chocolate,3,11,March,78.0
+USA,85% Dark Bars,2022-04-25,10220.0,508,Dark Chocolate,4,25,April,20.0
+Australia,Smooth Sliky Salty,2022-05-30,3969.0,243,Specialty Chocolate,5,30,May,16.0
+India,Manuka Honey Choco,2022-05-23,1547.0,170,Flavored Chocolate,5,23,May,9.0
+USA,Peanut Butter Cubes,2022-05-23,1162.0,18,Nut-based Chocolate,5,23,May,65.0
+Canada,Peanut Butter Cubes,2022-06-24,6342.0,282,Nut-based Chocolate,6,24,June,22.0
+New Zealand,Smooth Sliky Salty,2022-03-11,10633.0,277,Specialty Chocolate,3,11,March,38.0
+USA,Smooth Sliky Salty,2022-07-27,15057.0,212,Specialty Chocolate,7,27,July,71.0
+USA,White Choc,2022-08-16,4704.0,126,Milk & White Chocolate,8,16,August,37.0
+Canada,Smooth Sliky Salty,2022-03-07,9338.0,11,Specialty Chocolate,3,7,March,849.0
+New Zealand,After Nines,2022-04-05,7959.0,30,Specialty Chocolate,4,5,April,265.0
+India,85% Dark Bars,2022-05-04,9023.0,51,Dark Chocolate,5,4,May,177.0
+USA,Choco Coated Almonds,2022-01-04,14525.0,92,Nut-based Chocolate,1,4,January,158.0
+Australia,Baker's Choco Chips,2022-01-13,5810.0,101,Specialty Chocolate,1,13,January,58.0
+New Zealand,Fruit & Nut Bars,2022-07-11,6426.0,98,Flavored Chocolate,7,11,July,66.0
+Australia,Mint Chip Choco,2022-05-17,4403.0,159,Flavored Chocolate,5,17,May,28.0
+New Zealand,Peanut Butter Cubes,2022-07-21,1582.0,62,Nut-based Chocolate,7,21,July,26.0
+Canada,Organic Choco Syrup,2022-02-22,791.0,22,Specialty Chocolate,2,22,February,36.0
+India,99% Dark & Pure,2022-05-23,9100.0,187,Dark Chocolate,5,23,May,49.0
+Canada,Drinking Coco,2022-07-12,9884.0,200,Specialty Chocolate,7,12,July,49.0
+UK,Orange Choco,2022-06-15,3780.0,201,Flavored Chocolate,6,15,June,19.0
+New Zealand,50% Dark Bites,2022-06-23,4557.0,308,Dark Chocolate,6,23,June,15.0
+Australia,Eclairs,2022-03-25,5796.0,55,Specialty Chocolate,3,25,March,105.0
+India,Caramel Stuffed Bars,2022-07-04,84.0,153,Flavored Chocolate,7,4,July,1.0
+UK,White Choc,2022-05-12,9037.0,101,Milk & White Chocolate,5,12,May,89.0
+New Zealand,Raspberry Choco,2022-04-04,4746.0,137,Flavored Chocolate,4,4,April,35.0
+Australia,Orange Choco,2022-04-15,6713.0,398,Flavored Chocolate,4,15,April,17.0
+Canada,Eclairs,2022-03-08,6237.0,88,Specialty Chocolate,3,8,March,71.0
+India,White Choc,2022-01-17,7483.0,232,Milk & White Chocolate,1,17,January,32.0
+India,Mint Chip Choco,2022-08-22,1309.0,51,Flavored Chocolate,8,22,August,26.0
+UK,99% Dark & Pure,2022-07-25,1155.0,66,Dark Chocolate,7,25,July,18.0
+UK,50% Dark Bites,2022-06-14,2989.0,124,Dark Chocolate,6,14,June,24.0
+India,Choco Coated Almonds,2022-04-05,9625.0,78,Nut-based Chocolate,4,5,April,123.0
+UK,Raspberry Choco,2022-08-26,7357.0,341,Flavored Chocolate,8,26,August,22.0
+Australia,50% Dark Bites,2022-08-03,10031.0,114,Dark Chocolate,8,3,August,88.0
+Canada,White Choc,2022-07-11,6587.0,4,Milk & White Chocolate,7,11,July,1647.0
+New Zealand,Eclairs,2022-03-11,3311.0,22,Specialty Chocolate,3,11,March,150.0
+UK,Peanut Butter Cubes,2022-01-10,15330.0,30,Nut-based Chocolate,1,10,January,511.0
+UK,Baker's Choco Chips,2022-04-04,14028.0,351,Specialty Chocolate,4,4,April,40.0
+Australia,50% Dark Bites,2022-01-17,6678.0,708,Dark Chocolate,1,17,January,9.0
+New Zealand,Organic Choco Syrup,2022-07-08,8624.0,50,Specialty Chocolate,7,8,July,172.0
+UK,Organic Choco Syrup,2022-04-12,1197.0,356,Specialty Chocolate,4,12,April,3.0
+Canada,Fruit & Nut Bars,2022-08-24,483.0,185,Flavored Chocolate,8,24,August,3.0
+UK,Choco Coated Almonds,2022-06-07,1687.0,236,Nut-based Chocolate,6,7,June,7.0
+Canada,Almond Choco,2022-07-28,1309.0,30,Nut-based Chocolate,7,28,July,44.0
+USA,99% Dark & Pure,2022-02-21,9534.0,111,Dark Chocolate,2,21,February,86.0
+Canada,Mint Chip Choco,2022-04-08,1694.0,289,Flavored Chocolate,4,8,April,6.0
+UK,Manuka Honey Choco,2022-06-28,70.0,103,Flavored Chocolate,6,28,June,1.0
+UK,Baker's Choco Chips,2022-03-24,2443.0,20,Specialty Chocolate,3,24,March,122.0
+Australia,Caramel Stuffed Bars,2022-07-29,2933.0,55,Flavored Chocolate,7,29,July,53.0
+USA,Eclairs,2022-05-25,2044.0,90,Specialty Chocolate,5,25,May,23.0
+Australia,Raspberry Choco,2022-03-30,6524.0,303,Flavored Chocolate,3,30,March,22.0
+USA,Organic Choco Syrup,2022-07-18,12656.0,126,Specialty Chocolate,7,18,July,100.0
+Canada,Orange Choco,2022-05-10,8722.0,109,Flavored Chocolate,5,10,May,80.0
+Australia,Choco Coated Almonds,2022-03-18,15750.0,92,Nut-based Chocolate,3,18,March,171.0
+India,Caramel Stuffed Bars,2022-06-15,6839.0,56,Flavored Chocolate,6,15,June,122.0
+Canada,50% Dark Bites,2022-05-12,13685.0,58,Dark Chocolate,5,12,May,236.0
+New Zealand,Baker's Choco Chips,2022-06-23,2912.0,110,Specialty Chocolate,6,23,June,26.0
+India,Spicy Special Slims,2022-04-21,3339.0,171,Flavored Chocolate,4,21,April,20.0
+Australia,Almond Choco,2022-08-17,910.0,117,Nut-based Chocolate,8,17,August,8.0
+New Zealand,Eclairs,2022-02-07,19481.0,51,Specialty Chocolate,2,7,February,382.0
+Canada,Smooth Sliky Salty,2022-03-17,8099.0,118,Specialty Chocolate,3,17,March,69.0
+India,Baker's Choco Chips,2022-08-01,13727.0,79,Specialty Chocolate,8,1,August,174.0
+Australia,Milk Bars,2022-03-18,8659.0,29,Milk & White Chocolate,3,18,March,299.0
+Canada,Fruit & Nut Bars,2022-06-14,5782.0,103,Flavored Chocolate,6,14,June,56.0
+UK,Eclairs,2022-04-22,8463.0,155,Specialty Chocolate,4,22,April,55.0
+New Zealand,Eclairs,2022-01-18,4914.0,31,Specialty Chocolate,1,18,January,159.0
+Australia,99% Dark & Pure,2022-08-26,3087.0,128,Dark Chocolate,8,26,August,24.0
+New Zealand,Fruit & Nut Bars,2022-06-10,9205.0,419,Flavored Chocolate,6,10,June,22.0
+Canada,70% Dark Bites,2022-01-31,2303.0,7,Dark Chocolate,1,31,January,329.0
+New Zealand,Manuka Honey Choco,2022-04-08,1358.0,106,Flavored Chocolate,4,8,April,13.0
+Australia,Baker's Choco Chips,2022-06-07,3605.0,68,Specialty Chocolate,6,7,June,53.0
+Australia,85% Dark Bars,2022-02-10,8498.0,44,Dark Chocolate,2,10,February,193.0
+Australia,50% Dark Bites,2022-05-16,700.0,457,Dark Chocolate,5,16,May,2.0
+India,Baker's Choco Chips,2022-03-18,2191.0,524,Specialty Chocolate,3,18,March,4.0
+Australia,50% Dark Bites,2022-07-13,644.0,137,Dark Chocolate,7,13,July,5.0
+USA,Manuka Honey Choco,2022-07-25,4340.0,86,Flavored Chocolate,7,25,July,50.0
+Canada,Choco Coated Almonds,2022-08-19,2282.0,296,Nut-based Chocolate,8,19,August,8.0
+Canada,70% Dark Bites,2022-06-24,7714.0,597,Dark Chocolate,6,24,June,13.0
+Canada,Fruit & Nut Bars,2022-06-20,826.0,149,Flavored Chocolate,6,20,June,6.0
+India,99% Dark & Pure,2022-08-02,203.0,207,Dark Chocolate,8,2,August,1.0
+New Zealand,70% Dark Bites,2022-02-22,13356.0,93,Dark Chocolate,2,22,February,144.0
+New Zealand,Orange Choco,2022-02-01,6510.0,23,Flavored Chocolate,2,1,February,283.0
+Canada,70% Dark Bites,2022-02-14,5894.0,305,Dark Chocolate,2,14,February,19.0
+Australia,Milk Bars,2022-02-24,7910.0,125,Milk & White Chocolate,2,24,February,63.0
+India,Orange Choco,2022-03-18,784.0,129,Flavored Chocolate,3,18,March,6.0
+UK,Eclairs,2022-08-30,1750.0,252,Specialty Chocolate,8,30,August,7.0
+USA,Peanut Butter Cubes,2022-05-09,280.0,75,Nut-based Chocolate,5,9,May,4.0
+USA,Smooth Sliky Salty,2022-01-18,504.0,87,Specialty Chocolate,1,18,January,6.0
+India,White Choc,2022-07-04,7154.0,342,Milk & White Chocolate,7,4,July,21.0
+New Zealand,Spicy Special Slims,2022-06-03,1617.0,13,Flavored Chocolate,6,3,June,124.0
+New Zealand,Peanut Butter Cubes,2022-02-23,10822.0,30,Nut-based Chocolate,2,23,February,361.0
+New Zealand,99% Dark & Pure,2022-05-09,10724.0,203,Dark Chocolate,5,9,May,53.0
+India,70% Dark Bites,2022-06-06,3640.0,106,Dark Chocolate,6,6,June,34.0
+India,Drinking Coco,2022-07-04,7532.0,234,Specialty Chocolate,7,4,July,32.0
+New Zealand,Drinking Coco,2022-06-06,1582.0,100,Specialty Chocolate,6,6,June,16.0
+Australia,Almond Choco,2022-05-13,1456.0,91,Nut-based Chocolate,5,13,May,16.0
+New Zealand,Organic Choco Syrup,2022-01-31,2016.0,277,Specialty Chocolate,1,31,January,7.0
+New Zealand,Caramel Stuffed Bars,2022-06-30,7588.0,42,Flavored Chocolate,6,30,June,181.0
+Canada,Manuka Honey Choco,2022-08-25,3402.0,249,Flavored Chocolate,8,25,August,14.0
+New Zealand,Smooth Sliky Salty,2022-01-10,700.0,97,Specialty Chocolate,1,10,January,7.0
+USA,Manuka Honey Choco,2022-08-22,1904.0,8,Flavored Chocolate,8,22,August,238.0
+New Zealand,85% Dark Bars,2022-04-14,4844.0,275,Dark Chocolate,4,14,April,18.0
+UK,Smooth Sliky Salty,2022-05-31,9625.0,313,Specialty Chocolate,5,31,May,31.0
+UK,Raspberry Choco,2022-04-08,4599.0,323,Flavored Chocolate,4,8,April,14.0
+USA,Drinking Coco,2022-02-21,3003.0,155,Specialty Chocolate,2,21,February,19.0
+Australia,Manuka Honey Choco,2022-03-30,9744.0,377,Flavored Chocolate,3,30,March,26.0
+India,Raspberry Choco,2022-03-02,1400.0,2,Flavored Chocolate,3,2,March,700.0
+USA,Orange Choco,2022-07-28,364.0,170,Flavored Chocolate,7,28,July,2.0
+New Zealand,70% Dark Bites,2022-03-24,7231.0,38,Dark Chocolate,3,24,March,190.0
+Australia,After Nines,2022-08-11,63.0,105,Specialty Chocolate,8,11,August,1.0
+UK,Almond Choco,2022-05-17,8309.0,166,Nut-based Chocolate,5,17,May,50.0
+Canada,Choco Coated Almonds,2022-05-18,3164.0,164,Nut-based Chocolate,5,18,May,19.0
+UK,Peanut Butter Cubes,2022-08-17,5691.0,171,Nut-based Chocolate,8,17,August,33.0
+New Zealand,Eclairs,2022-04-04,490.0,49,Specialty Chocolate,4,4,April,10.0
+India,85% Dark Bars,2022-08-09,18032.0,205,Dark Chocolate,8,9,August,88.0
+New Zealand,Organic Choco Syrup,2022-01-17,637.0,313,Specialty Chocolate,1,17,January,2.0
+Canada,White Choc,2022-02-14,4067.0,29,Milk & White Chocolate,2,14,February,140.0
+New Zealand,Orange Choco,2022-05-16,8204.0,307,Flavored Chocolate,5,16,May,27.0
+Canada,Smooth Sliky Salty,2022-03-16,9870.0,121,Specialty Chocolate,3,16,March,82.0
+Canada,70% Dark Bites,2022-01-31,5131.0,285,Dark Chocolate,1,31,January,18.0
+Canada,Organic Choco Syrup,2022-03-10,1141.0,205,Specialty Chocolate,3,10,March,6.0
+UK,Organic Choco Syrup,2022-06-30,7980.0,157,Specialty Chocolate,6,30,June,51.0
+New Zealand,Eclairs,2022-03-01,5229.0,182,Specialty Chocolate,3,1,March,29.0
+UK,Drinking Coco,2022-05-27,3423.0,100,Specialty Chocolate,5,27,May,34.0
+UK,Milk Bars,2022-07-11,6468.0,223,Milk & White Chocolate,7,11,July,29.0
+New Zealand,Mint Chip Choco,2022-03-02,4326.0,61,Flavored Chocolate,3,2,March,71.0
+USA,Raspberry Choco,2022-03-04,7154.0,133,Flavored Chocolate,3,4,March,54.0
+UK,85% Dark Bars,2022-06-23,3997.0,228,Dark Chocolate,6,23,June,18.0
+USA,Almond Choco,2022-01-27,5180.0,233,Nut-based Chocolate,1,27,January,22.0
+Canada,Orange Choco,2022-01-14,2723.0,425,Flavored Chocolate,1,14,January,6.0
+India,Fruit & Nut Bars,2022-07-29,952.0,24,Flavored Chocolate,7,29,July,40.0
+Canada,Smooth Sliky Salty,2022-05-13,5691.0,495,Specialty Chocolate,5,13,May,11.0
+Canada,Baker's Choco Chips,2022-02-03,10969.0,170,Specialty Chocolate,2,3,February,65.0
+India,Smooth Sliky Salty,2022-05-27,5964.0,26,Specialty Chocolate,5,27,May,229.0
+Australia,Drinking Coco,2022-02-18,2821.0,24,Specialty Chocolate,2,18,February,118.0
+India,Spicy Special Slims,2022-01-28,1302.0,33,Flavored Chocolate,1,28,January,39.0
+UK,Eclairs,2022-06-29,5474.0,109,Specialty Chocolate,6,29,June,50.0
+India,Caramel Stuffed Bars,2022-01-13,4179.0,276,Flavored Chocolate,1,13,January,15.0
+UK,After Nines,2022-06-27,1946.0,164,Specialty Chocolate,6,27,June,12.0
+Canada,White Choc,2022-03-29,4291.0,1,Milk & White Chocolate,3,29,March,4291.0
+India,Organic Choco Syrup,2022-06-03,7196.0,160,Specialty Chocolate,6,3,June,45.0
+Canada,Smooth Sliky Salty,2022-03-21,1939.0,98,Specialty Chocolate,3,21,March,20.0
+India,Eclairs,2022-04-12,10437.0,46,Specialty Chocolate,4,12,April,227.0
+Australia,Raspberry Choco,2022-01-19,6916.0,259,Flavored Chocolate,1,19,January,27.0
+UK,50% Dark Bites,2022-04-06,3647.0,310,Dark Chocolate,4,6,April,12.0
+Australia,50% Dark Bites,2022-08-02,8995.0,78,Dark Chocolate,8,2,August,115.0
+Australia,Eclairs,2022-04-12,7252.0,136,Specialty Chocolate,4,12,April,53.0
+India,Drinking Coco,2022-07-21,16380.0,130,Specialty Chocolate,7,21,July,126.0
+New Zealand,Baker's Choco Chips,2022-03-22,9660.0,24,Specialty Chocolate,3,22,March,402.0
+India,Peanut Butter Cubes,2022-05-09,4522.0,5,Nut-based Chocolate,5,9,May,904.0
+Australia,Baker's Choco Chips,2022-08-09,329.0,109,Specialty Chocolate,8,9,August,3.0
+Canada,Choco Coated Almonds,2022-07-20,3458.0,294,Nut-based Chocolate,7,20,July,12.0
+India,70% Dark Bites,2022-04-14,4641.0,413,Dark Chocolate,4,14,April,11.0
+Canada,White Choc,2022-01-25,4627.0,136,Milk & White Chocolate,1,25,January,34.0
+Australia,Almond Choco,2022-04-25,3192.0,175,Nut-based Chocolate,4,25,April,18.0
+Canada,After Nines,2022-01-17,252.0,237,Specialty Chocolate,1,17,January,1.0
+USA,Eclairs,2022-08-15,868.0,125,Specialty Chocolate,8,15,August,7.0
+Canada,Fruit & Nut Bars,2022-06-02,210.0,16,Flavored Chocolate,6,2,June,13.0
+USA,85% Dark Bars,2022-06-30,7007.0,135,Dark Chocolate,6,30,June,52.0
+New Zealand,Raspberry Choco,2022-02-10,5845.0,91,Flavored Chocolate,2,10,February,64.0
+Canada,Caramel Stuffed Bars,2022-02-23,1372.0,614,Flavored Chocolate,2,23,February,2.0
+India,Organic Choco Syrup,2022-01-27,8428.0,216,Specialty Chocolate,1,27,January,39.0
+UK,Mint Chip Choco,2022-05-26,4977.0,317,Flavored Chocolate,5,26,May,16.0
+USA,70% Dark Bites,2022-04-14,1694.0,21,Dark Chocolate,4,14,April,81.0
+Australia,99% Dark & Pure,2022-08-01,4326.0,154,Dark Chocolate,8,1,August,28.0
+Australia,Eclairs,2022-08-22,9527.0,222,Specialty Chocolate,8,22,August,43.0
+India,99% Dark & Pure,2022-07-22,10766.0,157,Dark Chocolate,7,22,July,69.0
+USA,Fruit & Nut Bars,2022-04-28,1288.0,27,Flavored Chocolate,4,28,April,48.0
+Australia,Almond Choco,2022-05-30,4879.0,350,Nut-based Chocolate,5,30,May,14.0
+USA,Milk Bars,2022-07-21,2408.0,157,Milk & White Chocolate,7,21,July,15.0
+UK,Caramel Stuffed Bars,2022-08-02,3094.0,468,Flavored Chocolate,8,2,August,7.0
+New Zealand,70% Dark Bites,2022-06-15,7231.0,130,Dark Chocolate,6,15,June,56.0
+India,85% Dark Bars,2022-07-05,8981.0,130,Dark Chocolate,7,5,July,69.0
+New Zealand,Smooth Sliky Salty,2022-04-12,7.0,518,Specialty Chocolate,4,12,April,0.0
+Australia,70% Dark Bites,2022-08-18,1372.0,105,Dark Chocolate,8,18,August,13.0
+UK,50% Dark Bites,2022-01-12,5250.0,293,Dark Chocolate,1,12,January,18.0
+Canada,White Choc,2022-08-11,7560.0,15,Milk & White Chocolate,8,11,August,504.0
+Australia,Spicy Special Slims,2022-01-13,5012.0,384,Flavored Chocolate,1,13,January,13.0
+UK,Baker's Choco Chips,2022-04-29,3038.0,135,Specialty Chocolate,4,29,April,23.0
+New Zealand,After Nines,2022-07-07,1099.0,92,Specialty Chocolate,7,7,July,12.0
+New Zealand,Mint Chip Choco,2022-03-11,7413.0,4,Flavored Chocolate,3,11,March,1853.0
+UK,70% Dark Bites,2022-02-16,5397.0,239,Dark Chocolate,2,16,February,23.0
+Australia,Organic Choco Syrup,2022-01-07,2303.0,33,Specialty Chocolate,1,7,January,70.0
+New Zealand,Drinking Coco,2022-01-12,1141.0,518,Specialty Chocolate,1,12,January,2.0
+India,Eclairs,2022-06-09,10325.0,147,Specialty Chocolate,6,9,June,70.0
+India,Eclairs,2022-05-16,2149.0,84,Specialty Chocolate,5,16,May,26.0
+UK,85% Dark Bars,2022-06-23,12362.0,94,Dark Chocolate,6,23,June,132.0
+UK,Raspberry Choco,2022-01-28,12635.0,194,Flavored Chocolate,1,28,January,65.0
+UK,Mint Chip Choco,2022-07-14,2443.0,216,Flavored Chocolate,7,14,July,11.0
+Canada,Drinking Coco,2022-04-18,6237.0,247,Specialty Chocolate,4,18,April,25.0
+USA,Milk Bars,2022-06-14,1736.0,79,Milk & White Chocolate,6,14,June,22.0
+UK,Orange Choco,2022-04-15,7315.0,237,Flavored Chocolate,4,15,April,31.0
+Canada,Peanut Butter Cubes,2022-05-19,4935.0,63,Nut-based Chocolate,5,19,May,78.0
+India,White Choc,2022-04-13,1393.0,172,Milk & White Chocolate,4,13,April,8.0
+Canada,Choco Coated Almonds,2022-08-15,3381.0,408,Nut-based Chocolate,8,15,August,8.0
+India,Choco Coated Almonds,2022-08-22,2933.0,233,Nut-based Chocolate,8,22,August,13.0
+New Zealand,Baker's Choco Chips,2022-04-22,3836.0,59,Specialty Chocolate,4,22,April,65.0
+UK,Choco Coated Almonds,2022-08-03,8022.0,123,Nut-based Chocolate,8,3,August,65.0
+New Zealand,Organic Choco Syrup,2022-01-04,371.0,229,Specialty Chocolate,1,4,January,2.0
+Canada,After Nines,2022-01-13,16702.0,198,Specialty Chocolate,1,13,January,84.0
+Australia,Baker's Choco Chips,2022-05-11,13258.0,32,Specialty Chocolate,5,11,May,414.0
+New Zealand,Peanut Butter Cubes,2022-02-16,2058.0,236,Nut-based Chocolate,2,16,February,9.0
+UK,Caramel Stuffed Bars,2022-05-20,10192.0,67,Flavored Chocolate,5,20,May,152.0
+UK,Drinking Coco,2022-02-03,7140.0,438,Specialty Chocolate,2,3,February,16.0
+India,Manuka Honey Choco,2022-05-06,9835.0,167,Flavored Chocolate,5,6,May,59.0
+UK,Choco Coated Almonds,2022-06-30,5775.0,135,Nut-based Chocolate,6,30,June,43.0
+UK,Smooth Sliky Salty,2022-03-22,749.0,148,Specialty Chocolate,3,22,March,5.0
+Canada,Orange Choco,2022-02-17,7770.0,54,Flavored Chocolate,2,17,February,144.0
+UK,85% Dark Bars,2022-07-07,5502.0,64,Dark Chocolate,7,7,July,86.0
+UK,70% Dark Bites,2022-03-16,6223.0,181,Dark Chocolate,3,16,March,34.0
+UK,99% Dark & Pure,2022-08-12,3507.0,114,Dark Chocolate,8,12,August,31.0
+New Zealand,After Nines,2022-01-21,5600.0,181,Specialty Chocolate,1,21,January,31.0
+Australia,50% Dark Bites,2022-05-06,721.0,151,Dark Chocolate,5,6,May,5.0
+Canada,50% Dark Bites,2022-06-24,6615.0,137,Dark Chocolate,6,24,June,48.0
+USA,White Choc,2022-05-05,7420.0,163,Milk & White Chocolate,5,5,May,46.0
+New Zealand,99% Dark & Pure,2022-03-25,3164.0,84,Dark Chocolate,3,25,March,38.0
+Australia,Caramel Stuffed Bars,2022-02-14,9114.0,140,Flavored Chocolate,2,14,February,65.0
+New Zealand,85% Dark Bars,2022-05-12,5404.0,187,Dark Chocolate,5,12,May,29.0
+New Zealand,Smooth Sliky Salty,2022-01-25,3990.0,169,Specialty Chocolate,1,25,January,24.0
+UK,85% Dark Bars,2022-06-28,14924.0,12,Dark Chocolate,6,28,June,1244.0
+Australia,Drinking Coco,2022-07-13,7091.0,194,Specialty Chocolate,7,13,July,37.0
+USA,Milk Bars,2022-05-16,2807.0,252,Milk & White Chocolate,5,16,May,11.0
+India,After Nines,2022-03-14,6496.0,168,Specialty Chocolate,3,14,March,39.0
+USA,After Nines,2022-08-15,3738.0,261,Specialty Chocolate,8,15,August,14.0
+India,Orange Choco,2022-02-16,1190.0,256,Flavored Chocolate,2,16,February,5.0
+UK,Manuka Honey Choco,2022-06-15,8379.0,43,Flavored Chocolate,6,15,June,195.0
+Australia,Raspberry Choco,2022-05-27,9268.0,100,Flavored Chocolate,5,27,May,93.0
+USA,Drinking Coco,2022-06-14,1029.0,98,Specialty Chocolate,6,14,June,10.0
+India,Eclairs,2022-02-25,3549.0,76,Specialty Chocolate,2,25,February,47.0
+India,After Nines,2022-08-04,12026.0,262,Specialty Chocolate,8,4,August,46.0
+India,99% Dark & Pure,2022-06-28,2303.0,244,Dark Chocolate,6,28,June,9.0
+Canada,Spicy Special Slims,2022-04-05,13405.0,12,Flavored Chocolate,4,5,April,1117.0
+Canada,Peanut Butter Cubes,2022-07-05,14763.0,113,Nut-based Chocolate,7,5,July,131.0
+New Zealand,Eclairs,2022-01-20,12894.0,48,Specialty Chocolate,1,20,January,269.0
+New Zealand,Drinking Coco,2022-02-16,8302.0,131,Specialty Chocolate,2,16,February,63.0
+UK,Drinking Coco,2022-07-12,455.0,174,Specialty Chocolate,7,12,July,3.0
+India,Raspberry Choco,2022-06-16,8183.0,254,Flavored Chocolate,6,16,June,32.0
+Australia,Choco Coated Almonds,2022-04-13,1645.0,284,Nut-based Chocolate,4,13,April,6.0
+UK,50% Dark Bites,2022-02-21,3143.0,67,Dark Chocolate,2,21,February,47.0
+Canada,Choco Coated Almonds,2022-05-11,5873.0,249,Nut-based Chocolate,5,11,May,24.0
+India,50% Dark Bites,2022-04-15,11298.0,313,Dark Chocolate,4,15,April,36.0
+Canada,Peanut Butter Cubes,2022-06-07,12425.0,167,Nut-based Chocolate,6,7,June,74.0
+UK,White Choc,2022-06-27,1715.0,286,Milk & White Chocolate,6,27,June,6.0
+India,After Nines,2022-07-29,8190.0,109,Specialty Chocolate,7,29,July,75.0
+Canada,Smooth Sliky Salty,2022-06-02,4991.0,166,Specialty Chocolate,6,2,June,30.0
+India,Mint Chip Choco,2022-01-26,15491.0,85,Flavored Chocolate,1,26,January,182.0
+Canada,99% Dark & Pure,2022-03-02,5096.0,142,Dark Chocolate,3,2,March,36.0
+Australia,70% Dark Bites,2022-01-10,7063.0,104,Dark Chocolate,1,10,January,68.0
+USA,70% Dark Bites,2022-06-27,2275.0,115,Dark Chocolate,6,27,June,20.0
+Canada,Orange Choco,2022-06-30,7602.0,18,Flavored Chocolate,6,30,June,422.0
+Australia,85% Dark Bars,2022-07-08,4200.0,80,Dark Chocolate,7,8,July,52.0
+India,Spicy Special Slims,2022-06-08,11137.0,88,Flavored Chocolate,6,8,June,127.0
+UK,Manuka Honey Choco,2022-08-18,3388.0,212,Flavored Chocolate,8,18,August,16.0
+Australia,After Nines,2022-04-08,6832.0,306,Specialty Chocolate,4,8,April,22.0
+Canada,Fruit & Nut Bars,2022-08-08,3437.0,181,Flavored Chocolate,8,8,August,19.0
+UK,Milk Bars,2022-08-26,301.0,65,Milk & White Chocolate,8,26,August,5.0
+Canada,Fruit & Nut Bars,2022-01-14,1869.0,158,Flavored Chocolate,1,14,January,12.0
+USA,Baker's Choco Chips,2022-08-11,17465.0,271,Specialty Chocolate,8,11,August,64.0
+USA,Almond Choco,2022-05-31,10143.0,24,Nut-based Chocolate,5,31,May,423.0
+New Zealand,50% Dark Bites,2022-07-11,3626.0,10,Dark Chocolate,7,11,July,363.0
+Canada,Caramel Stuffed Bars,2022-03-02,3346.0,304,Flavored Chocolate,3,2,March,11.0
+Australia,Raspberry Choco,2022-07-13,6321.0,88,Flavored Chocolate,7,13,July,72.0
+UK,Spicy Special Slims,2022-08-03,9345.0,133,Flavored Chocolate,8,3,August,70.0
+UK,Peanut Butter Cubes,2022-03-01,15008.0,165,Nut-based Chocolate,3,1,March,91.0
+New Zealand,White Choc,2022-04-13,7609.0,150,Milk & White Chocolate,4,13,April,51.0
+Canada,Fruit & Nut Bars,2022-02-14,10332.0,180,Flavored Chocolate,2,14,February,57.0
+India,White Choc,2022-07-26,819.0,213,Milk & White Chocolate,7,26,July,4.0
+UK,Drinking Coco,2022-01-27,5754.0,133,Specialty Chocolate,1,27,January,43.0
+India,Peanut Butter Cubes,2022-04-14,28.0,446,Nut-based Chocolate,4,14,April,0.0
+USA,Almond Choco,2022-05-19,6440.0,141,Nut-based Chocolate,5,19,May,46.0
+India,Eclairs,2022-02-09,4956.0,58,Specialty Chocolate,2,9,February,85.0
+UK,Spicy Special Slims,2022-05-25,2352.0,58,Flavored Chocolate,5,25,May,41.0
+Australia,Manuka Honey Choco,2022-01-26,3906.0,76,Flavored Chocolate,1,26,January,51.0
+India,White Choc,2022-07-04,1813.0,296,Milk & White Chocolate,7,4,July,6.0
+India,Almond Choco,2022-04-13,11788.0,73,Nut-based Chocolate,4,13,April,161.0
+Australia,Smooth Sliky Salty,2022-01-25,5768.0,119,Specialty Chocolate,1,25,January,48.0
+USA,85% Dark Bars,2022-04-25,2401.0,78,Dark Chocolate,4,25,April,31.0
+USA,Eclairs,2022-06-10,4515.0,392,Specialty Chocolate,6,10,June,12.0
+New Zealand,White Choc,2022-08-22,10794.0,51,Milk & White Chocolate,8,22,August,212.0
+India,After Nines,2022-06-27,13706.0,207,Specialty Chocolate,6,27,June,66.0
+India,Orange Choco,2022-06-30,4361.0,40,Flavored Chocolate,6,30,June,109.0
+India,Almond Choco,2022-08-30,10122.0,100,Nut-based Chocolate,8,30,August,101.0
+Australia,Raspberry Choco,2022-08-23,994.0,57,Flavored Chocolate,8,23,August,17.0
+New Zealand,99% Dark & Pure,2022-08-26,2268.0,42,Dark Chocolate,8,26,August,54.0
+Australia,Orange Choco,2022-03-09,574.0,156,Flavored Chocolate,3,9,March,4.0
+UK,Drinking Coco,2022-04-20,1792.0,23,Specialty Chocolate,4,20,April,78.0
+Canada,Caramel Stuffed Bars,2022-06-10,4844.0,539,Flavored Chocolate,6,10,June,9.0
+Australia,Organic Choco Syrup,2022-02-08,938.0,158,Specialty Chocolate,2,8,February,6.0
+Australia,White Choc,2022-08-25,4879.0,22,Milk & White Chocolate,8,25,August,222.0
+India,Peanut Butter Cubes,2022-02-16,9107.0,73,Nut-based Chocolate,2,16,February,125.0
+UK,99% Dark & Pure,2022-05-30,12187.0,27,Dark Chocolate,5,30,May,451.0
+New Zealand,50% Dark Bites,2022-06-29,5670.0,64,Dark Chocolate,6,29,June,89.0
+USA,Milk Bars,2022-06-16,476.0,133,Milk & White Chocolate,6,16,June,4.0
+UK,Caramel Stuffed Bars,2022-03-04,2681.0,149,Flavored Chocolate,3,4,March,18.0
+New Zealand,Peanut Butter Cubes,2022-03-15,1533.0,434,Nut-based Chocolate,3,15,March,4.0
+New Zealand,50% Dark Bites,2022-01-27,9765.0,85,Dark Chocolate,1,27,January,115.0
+Canada,Drinking Coco,2022-07-05,994.0,118,Specialty Chocolate,7,5,July,8.0
+USA,Caramel Stuffed Bars,2022-03-29,3318.0,299,Flavored Chocolate,3,29,March,11.0
+Canada,Almond Choco,2022-05-12,4214.0,35,Nut-based Chocolate,5,12,May,120.0
+USA,Drinking Coco,2022-03-11,7714.0,44,Specialty Chocolate,3,11,March,175.0
+New Zealand,Eclairs,2022-07-11,4690.0,299,Specialty Chocolate,7,11,July,16.0
+New Zealand,Choco Coated Almonds,2022-08-01,13062.0,62,Nut-based Chocolate,8,1,August,211.0
+UK,Spicy Special Slims,2022-02-16,12488.0,200,Flavored Chocolate,2,16,February,62.0
+USA,After Nines,2022-04-13,14147.0,235,Specialty Chocolate,4,13,April,60.0
+India,Choco Coated Almonds,2022-02-14,49.0,363,Nut-based Chocolate,2,14,February,0.0
+Australia,Peanut Butter Cubes,2022-03-14,10199.0,68,Nut-based Chocolate,3,14,March,150.0
+Australia,Spicy Special Slims,2022-04-26,11389.0,26,Flavored Chocolate,4,26,April,438.0
+Canada,Manuka Honey Choco,2022-04-05,3584.0,200,Flavored Chocolate,4,5,April,18.0
+Canada,Drinking Coco,2022-03-03,12481.0,264,Specialty Chocolate,3,3,March,47.0
+USA,Spicy Special Slims,2022-06-13,2107.0,175,Flavored Chocolate,6,13,June,12.0
+New Zealand,70% Dark Bites,2022-02-14,8603.0,352,Dark Chocolate,2,14,February,24.0
+New Zealand,99% Dark & Pure,2022-04-18,7483.0,183,Dark Chocolate,4,18,April,41.0
+New Zealand,85% Dark Bars,2022-02-01,3381.0,417,Dark Chocolate,2,1,February,8.0
+New Zealand,Orange Choco,2022-08-04,2030.0,146,Flavored Chocolate,8,4,August,14.0
+New Zealand,Almond Choco,2022-04-05,6559.0,158,Nut-based Chocolate,4,5,April,42.0
+Australia,99% Dark & Pure,2022-01-26,10822.0,168,Dark Chocolate,1,26,January,64.0
+UK,After Nines,2022-01-21,18697.0,176,Specialty Chocolate,1,21,January,106.0
+Canada,After Nines,2022-08-22,5845.0,172,Specialty Chocolate,8,22,August,34.0
+UK,Drinking Coco,2022-01-27,2317.0,224,Specialty Chocolate,1,27,January,10.0
+UK,50% Dark Bites,2022-02-16,10150.0,68,Dark Chocolate,2,16,February,149.0
+USA,Raspberry Choco,2022-01-03,3437.0,46,Flavored Chocolate,1,3,January,75.0
+USA,White Choc,2022-08-24,4592.0,2,Milk & White Chocolate,8,24,August,2296.0
+USA,Spicy Special Slims,2022-02-07,5691.0,417,Flavored Chocolate,2,7,February,14.0
+Australia,Smooth Sliky Salty,2022-02-11,4158.0,109,Specialty Chocolate,2,11,February,38.0
+Canada,Organic Choco Syrup,2022-03-29,5684.0,81,Specialty Chocolate,3,29,March,70.0
+USA,Peanut Butter Cubes,2022-06-15,693.0,350,Nut-based Chocolate,6,15,June,2.0
+UK,Smooth Sliky Salty,2022-04-26,546.0,142,Specialty Chocolate,4,26,April,4.0
+Australia,Organic Choco Syrup,2022-07-15,4263.0,264,Specialty Chocolate,7,15,July,16.0
+India,Organic Choco Syrup,2022-06-23,1036.0,20,Specialty Chocolate,6,23,June,52.0
+Australia,Baker's Choco Chips,2022-01-11,13846.0,421,Specialty Chocolate,1,11,January,33.0
+UK,50% Dark Bites,2022-02-09,2499.0,271,Dark Chocolate,2,9,February,9.0
+UK,Almond Choco,2022-06-06,10689.0,204,Nut-based Chocolate,6,6,June,52.0
+UK,Caramel Stuffed Bars,2022-08-10,5768.0,235,Flavored Chocolate,8,10,August,25.0
+Australia,Smooth Sliky Salty,2022-01-04,2226.0,46,Specialty Chocolate,1,4,January,48.0
+Canada,70% Dark Bites,2022-04-08,10262.0,15,Dark Chocolate,4,8,April,684.0
+UK,Milk Bars,2022-03-02,3864.0,430,Milk & White Chocolate,3,2,March,9.0
+Canada,Drinking Coco,2022-06-15,4900.0,709,Specialty Chocolate,6,15,June,7.0
+Australia,After Nines,2022-02-14,5250.0,47,Specialty Chocolate,2,14,February,112.0
+UK,After Nines,2022-07-05,3507.0,380,Specialty Chocolate,7,5,July,9.0
+India,Mint Chip Choco,2022-01-12,7413.0,465,Flavored Chocolate,1,12,January,16.0
+India,Mint Chip Choco,2022-03-03,8155.0,96,Flavored Chocolate,3,3,March,85.0
+New Zealand,Milk Bars,2022-05-18,2478.0,188,Milk & White Chocolate,5,18,May,13.0
+India,Caramel Stuffed Bars,2022-07-28,2471.0,202,Flavored Chocolate,7,28,July,12.0
+UK,Manuka Honey Choco,2022-02-07,1666.0,106,Flavored Chocolate,2,7,February,16.0
+India,Orange Choco,2022-05-30,301.0,421,Flavored Chocolate,5,30,May,1.0
+Australia,Raspberry Choco,2022-04-25,8400.0,27,Flavored Chocolate,4,25,April,311.0
+Canada,85% Dark Bars,2022-02-16,6139.0,45,Dark Chocolate,2,16,February,136.0
+Australia,Drinking Coco,2022-05-04,1288.0,60,Specialty Chocolate,5,4,May,21.0
+Canada,70% Dark Bites,2022-06-02,7077.0,77,Dark Chocolate,6,2,June,92.0
+USA,Caramel Stuffed Bars,2022-07-11,2317.0,464,Flavored Chocolate,7,11,July,5.0
+New Zealand,Spicy Special Slims,2022-06-07,63.0,60,Flavored Chocolate,6,7,June,1.0
+UK,Almond Choco,2022-07-06,9744.0,157,Nut-based Chocolate,7,6,July,62.0
+India,Raspberry Choco,2022-06-15,9954.0,154,Flavored Chocolate,6,15,June,65.0
+India,Mint Chip Choco,2022-04-14,1260.0,239,Flavored Chocolate,4,14,April,5.0
+India,Drinking Coco,2022-08-08,469.0,163,Specialty Chocolate,8,8,August,3.0
+UK,Drinking Coco,2022-03-29,973.0,28,Specialty Chocolate,3,29,March,35.0
+Australia,Organic Choco Syrup,2022-07-04,3647.0,76,Specialty Chocolate,7,4,July,48.0
+India,99% Dark & Pure,2022-02-16,455.0,96,Dark Chocolate,2,16,February,5.0
+Canada,Spicy Special Slims,2022-05-02,2520.0,156,Flavored Chocolate,5,2,May,16.0
+India,Eclairs,2022-07-21,10500.0,106,Specialty Chocolate,7,21,July,99.0
+Australia,99% Dark & Pure,2022-08-18,7952.0,235,Dark Chocolate,8,18,August,34.0
+USA,85% Dark Bars,2022-06-22,483.0,259,Dark Chocolate,6,22,June,2.0
+UK,Peanut Butter Cubes,2022-07-19,4872.0,126,Nut-based Chocolate,7,19,July,39.0
+UK,Peanut Butter Cubes,2022-08-12,7756.0,85,Nut-based Chocolate,8,12,August,91.0
+USA,Choco Coated Almonds,2022-06-07,5446.0,132,Nut-based Chocolate,6,7,June,41.0
+Canada,Peanut Butter Cubes,2022-03-08,6594.0,91,Nut-based Chocolate,3,8,March,72.0
+Australia,Choco Coated Almonds,2022-04-08,1470.0,167,Nut-based Chocolate,4,8,April,9.0
+Canada,Eclairs,2022-05-06,721.0,203,Specialty Chocolate,5,6,May,4.0
+India,Drinking Coco,2022-05-31,4494.0,11,Specialty Chocolate,5,31,May,409.0
+Australia,Mint Chip Choco,2022-01-13,2674.0,295,Flavored Chocolate,1,13,January,9.0
+USA,70% Dark Bites,2022-03-15,658.0,77,Dark Chocolate,3,15,March,9.0
+Canada,Peanut Butter Cubes,2022-02-16,1127.0,319,Nut-based Chocolate,2,16,February,4.0
+USA,70% Dark Bites,2022-01-14,7364.0,196,Dark Chocolate,1,14,January,38.0
+Australia,White Choc,2022-03-21,6818.0,102,Milk & White Chocolate,3,21,March,67.0
+Canada,Drinking Coco,2022-05-17,6776.0,312,Specialty Chocolate,5,17,May,22.0
+New Zealand,85% Dark Bars,2022-08-08,15099.0,55,Dark Chocolate,8,8,August,275.0
+Canada,Milk Bars,2022-04-26,3612.0,82,Milk & White Chocolate,4,26,April,44.0
+Australia,70% Dark Bites,2022-04-15,3710.0,260,Dark Chocolate,4,15,April,14.0
+Canada,Eclairs,2022-05-19,6111.0,591,Specialty Chocolate,5,19,May,10.0
+Canada,Drinking Coco,2022-01-10,2702.0,24,Specialty Chocolate,1,10,January,113.0
+New Zealand,After Nines,2022-05-04,483.0,228,Specialty Chocolate,5,4,May,2.0
+Canada,White Choc,2022-04-05,5887.0,268,Milk & White Chocolate,4,5,April,22.0
+India,After Nines,2022-01-17,952.0,68,Specialty Chocolate,1,17,January,14.0
+India,Spicy Special Slims,2022-03-22,10647.0,173,Flavored Chocolate,3,22,March,62.0
+Australia,White Choc,2022-07-05,6055.0,93,Milk & White Chocolate,7,5,July,65.0
+Canada,Orange Choco,2022-04-27,8757.0,338,Flavored Chocolate,4,27,April,26.0
+Canada,Almond Choco,2022-08-12,6055.0,73,Nut-based Chocolate,8,12,August,83.0
+UK,Baker's Choco Chips,2022-03-11,721.0,251,Specialty Chocolate,3,11,March,3.0
+UK,Fruit & Nut Bars,2022-05-13,8589.0,229,Flavored Chocolate,5,13,May,38.0
+USA,Smooth Sliky Salty,2022-05-12,11781.0,91,Specialty Chocolate,5,12,May,129.0
+USA,Raspberry Choco,2022-01-12,672.0,194,Flavored Chocolate,1,12,January,3.0
+New Zealand,Milk Bars,2022-03-29,12558.0,403,Milk & White Chocolate,3,29,March,31.0
+India,50% Dark Bites,2022-03-14,8337.0,12,Dark Chocolate,3,14,March,695.0
+New Zealand,99% Dark & Pure,2022-05-24,8134.0,195,Dark Chocolate,5,24,May,42.0
+Canada,Organic Choco Syrup,2022-01-28,8491.0,75,Specialty Chocolate,1,28,January,113.0
+India,Almond Choco,2022-05-24,3066.0,96,Nut-based Chocolate,5,24,May,32.0
+Australia,Peanut Butter Cubes,2022-08-19,301.0,205,Nut-based Chocolate,8,19,August,1.0
+Australia,Spicy Special Slims,2022-05-17,4410.0,323,Flavored Chocolate,5,17,May,14.0
+USA,White Choc,2022-06-07,6559.0,119,Milk & White Chocolate,6,7,June,55.0
+Canada,Organic Choco Syrup,2022-07-26,574.0,217,Specialty Chocolate,7,26,July,3.0
+India,Eclairs,2022-07-28,2086.0,384,Specialty Chocolate,7,28,July,5.0
+India,70% Dark Bites,2022-05-23,5075.0,344,Dark Chocolate,5,23,May,15.0
