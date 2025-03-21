@@ -1,75 +1,178 @@
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-## Template Instructions
 
-Welcome,
+---
 
-This is the Code Institute student template for the Data Analytics capstone project. We have preinstalled all of the tools you need to get started. It's perfectly okay to use this template as the basis for your project submissions. Click the `Use this template` button above to get started.
+# Chocolate Sales Analysis Project
 
-You can safely delete the Template Instructions section of this README.md file and modify the remaining paragraphs for your own project. Please do read the Template Instructions at least once, though! It contains some important information about the IDE and the extensions we use.
+**Chocolate Sales Analysis** is a comprehensive data analysis project designed to explore, analyze, and visualize chocolate sales data across multiple countries. Built using Python and various data analysis libraries, this project provides insights into sales trends, product performance, and regional demand through intuitive visualizations and statistical analysis. The dataset is sourced from Kaggle (link provided below) and is of a reasonable size, well under the 100GB repository limit.
 
-## How to use this repo
+---
 
-1. Use this template to create your GitHub project repo. Click the Use this template button, then click Create a new repository.
+## Dataset Content
 
-1. Copy the URL of your repository to your clipboard.
+The dataset used in this project is the **Chocolate Sales Dataset** from Kaggle:  
+[https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales)  
 
-1. In VS Code, select File - Open Folder.
+It contains detailed records of chocolate sales transactions, including:  
+- **Amount**: Sales revenue in dollars  
+- **Boxes Shipped**: Number of chocolate boxes shipped per transaction  
+- **Country**: Six countries (Australia, Canada, India, New Zealand, UK, USA)  
+- **Product**: Specific chocolate products (e.g., Smooth Silky Salty, 50% Dark Bites)  
+- **Date**: Transaction dates spanning 2022  
+- **Salesperson**: Names of salespeople (removed during cleaning)  
 
-1. Select your vscode-projects folder, then click the Select Folder button on Windows, or Open button on Mac.
+The dataset is relatively clean with no missing, empty, or duplicate values, making it suitable for analysis after minor preprocessing.
 
-1. From the top menu in VS Code, select Terminal > New Terminal to open the terminal.
+---
 
-1. In the terminal, type git clone followed by the URL of your GitHub repository. Then hit Enter. This command will download all the files in your GitHub repository into your vscode-projects folder.
+## Business Requirements
 
-1. In VS Code, select File > Open Folder again.
+1. **Understand Sales Distribution**: Identify total sales and percentage contributions by country and product category.  
+2. **Identify Top Performers**: Determine the top-selling products and countries driving revenue.  
+3. **Analyze Efficiency**: Calculate revenue per box shipped to assess profitability across products and categories.  
+4. **Explore Trends**: Investigate sales trends over time, focusing on seasonality and holiday impacts.  
+5. **Visualize Insights**: Provide clear, actionable visualizations for stakeholders to understand key findings.
 
-1. This time, navigate to and select the folder for the project you just downloaded. Then, click Select Folder.
+---
 
-1. A virtual environment is necessary when working with Python projects to ensure each project's dependencies are kept separate from each other. You need to create your virtual environment, also called a venv, and then ensure that it is activated any time you return to your workspace.
-Click the gear icon in the lower left-hand corner of the screen to open the Manage menu and select Command Palette to open the VS Code command palette.
+## Hypotheses and Validation
 
-1. In the command palette, type: create environment and select Python: Create Environment…
+1. **H1: Sales follow seasonal trends, with higher revenue during peak holiday months.**  
+   - **Validation**: Analyze monthly sales trends (e.g., January vs. February) using line charts and heatmaps.  
+   - **Key Insight**: Holiday-driven sales spikes (e.g., January peak at $896,105).  
 
-1. Choose Venv from the dropdown list.
+2. **H2: Certain countries have higher chocolate sales, and sales amount correlates with boxes shipped.**  
+   - **Validation**: Compare total sales and boxes shipped per country using choropleth maps and bubble charts.  
+   - **Key Insight**: Australia leads with $1,137,367, but correlation between sales and boxes shipped is weak (-0.0188).  
 
-1. Choose the Python version you installed earlier. Currently, we recommend Python 3.12.8
+3. **H3: Premium chocolate products generate higher revenue per box shipped.**  
+   - **Validation**: Calculate revenue per box shipped and visualize with box plots and stacked bar charts.  
+   - **Key Insight**: Premium products like Smooth Silky Salty show higher efficiency.  
 
-1. DO NOT click the box next to requirements.txt, as you need to do more steps before you can install your dependencies. Click OK.
+4. **H4: Some chocolate products drive revenue more efficiently than others, making them more profitable.**  
+   - **Validation**: Assess sales and revenue per box shipped per product using bar and bubble charts.  
+   - **Key Insight**: Smooth Silky Salty ($349,692) outperforms others in revenue and efficiency.
 
-1. You will see a .venv folder appear in the file explorer pane to show that the virtual environment has been created.
+---
 
-1. Important: Please add the .venv to your .gitignore file
+## Project Plan
 
-1. Return to the terminal by clicking on the TERMINAL tab or click on the Terminal menu and choose New Terminal if no terminal is currently open.
+1. **Data Collection**: Downloaded the dataset from Kaggle.  
+2. **Data Processing**:  
+   - Removed the "Salesperson" column (irrelevant to analysis).  
+   - Converted "Amount" from string (with "$") to numeric data type.  
+   - Standardized "Date" to YYYY-MM-DD format.  
+   - Added columns: Day, Month Number, Month Name, Revenue per Box Shipped (Amount / Boxes Shipped).  
+3. **Analysis**: Calculated total sales, percentages, trends, and efficiency metrics.  
+4. **Visualization**: Created charts (e.g., bar, line, stacked bar) using Python libraries.  
+5. **Interpretation**: Summarized key findings and validated hypotheses.
 
-1. In the terminal, use the command below to install your dependencies. This may take several minutes.
- `pip3 install -r requirements.txt`
+The data was managed using pandas for cleaning and analysis, ensuring consistency throughout the process. We chose these methodologies for their simplicity and effectiveness in handling structured data.
 
-1. Open the jupyter_notebooks directory, and click on the notebook you want to open.
+---
 
-1. Click the kernel button and choose Python Environments.
+## Rationale for Mapping Business Requirements to Data Visualizations
 
-Note that the kernel says Python 3.12.2 as it inherits from the workspace, so it will be Python-3.12.2 as installed by our template. To confirm this, you can use `! python --version` in a notebook code cell.
+- **Sales Distribution**: Treemap for percentage by country, bar chart for product category sales.  
+  - *Rationale*: Highlights relative contributions clearly for stakeholders.  
+- **Top Performers**: Bar chart for top 5 products and countries.  
+  - *Rationale*: Simple and effective for ranking comparisons.  
+- **Efficiency**: Stacked bar chart for revenue per box shipped by category.  
+  - *Rationale*: Shows efficiency across dimensions.  
+- **Trends**: Line chart for monthly sales trends.  
+  - *Rationale*: Reveals temporal patterns intuitively.
 
-## Cloud IDE Reminders
+---
 
-To log into the Heroku toolbelt CLI:
+## Analysis Techniques Used
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- **Descriptive Statistics**: Calculated mean ($5,652.31), median ($4,868.50), min ($7), and max ($22,050) for sales.  
+- **Correlation Analysis**: Computed Sales vs. Boxes Shipped correlation (-0.0188).  
+- **Aggregation**: Summed sales by country, product, and category.  
+- **Time Series Analysis**: Analyzed monthly sales trends.  
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+**Limitations**: The weak correlation limited insights into shipment efficiency. An alternative could be regression analysis to explore other variables (not present in the dataset). The data’s simplicity (no missing values) didn’t require advanced imputation techniques.
 
-* Set the runtime.txt Python version to a [Heroku-22](https://devcenter.heroku.com/articles/python-support#supported-runtimes) stack currently supported version.
-* The project was deployed to Heroku using the following steps.
+**Structure**: Techniques were applied sequentially—cleaning first, then descriptive stats, followed by visualizations—to build a logical flow. The dataset’s size and quality posed no significant limitations.
 
-1. Log in to Heroku and create an App
-2. At the Deploy tab, select GitHub as the deployment method.
-3. Select your repository name and click Search. Once it is found, click Connect.
-4. Select the branch you want to deploy, then click Deploy Branch.
-5. The deployment process should happen smoothly if all deployment files are fully functional. Click now the button Open App on the top of the page to access your App.
-6. If the slug size is too large then add large files not required for the app to the .slugignore file.
+**Generative AI**: Used for ideation (e.g., suggesting visualization types) and code optimization (e.g., efficient pandas operations).
+
+---
+
+## Ethical Considerations
+
+- **Data Privacy**: Salesperson names were removed to anonymize data, avoiding personal identification.  
+- **Bias**: No evident bias in country or product data, though India’s high sales might reflect sampling bias (not explored further due to dataset limitations).  
+- **Legal**: Dataset is publicly available on Kaggle under an open license, ensuring compliance.
+
+---
+
+## Dashboard Design
+
+### Pages and Content
+1. **Home**: Summary statistics (average sales, boxes shipped), key findings text block.  
+2. **Sales by Country**: Choropleth map, treemap, top 5 countries bar chart.  
+3. **Product Performance**: Bar chart (top 5 products), stacked bar (revenue per box).  
+4. **Trends**: Line chart (monthly sales), heatmap (sales by month/day).  
+
+**Communication**:  
+- **Technical Audience**: Detailed stats and correlation insights in tables.  
+- **Non-Technical Audience**: Simplified charts with annotations (e.g., "Australia leads with $1.14M").  
+
+---
+
+## Unfixed Bugs
+
+- **Minor Rounding Error**: Revenue per box shipped occasionally shows slight discrepancies due to floating-point precision in Python. Left unfixed as it doesn’t impact insights significantly.  
+- **Knowledge Gaps**: Initially unfamiliar with heatmap creation; resolved by studying Matplotlib/Seaborn documentation.
+
+---
+
+## Development Roadmap
+
+- **Challenges**: Standardizing dates and handling weak correlations. Overcome by using pandas’ `to_datetime` and focusing on descriptive stats instead of predictive models.  
+- **Next Steps**: Learn advanced visualization tools (e.g., Tableau) and time series forecasting techniques.
+
+---
+
+## Deployed on Tableau Public:
+
+* Deployed with Tableau file Chocolate_sales_analysis.twbx in output folder.
+
+* Steps:
+
+1. Processed and cleaned the data using Python (pandas).
+2. Exported the cleaned dataset as a CSV file.
+3. Imported the CSV into Tableau Public.
+4. Designed interactive dashboards with charts and filters as outlined in the Dashboard Design section.
+
+Tableau was chosen for deployment due to its powerful visualization capabilities and ability to share interactive dashboards with a broad audience.
+
+---
+
+## Main Data Analysis Libraries
+
+- **pandas**: Data cleaning, aggregation (e.g., `df.groupby('Country')['Amount'].sum()`).  
+- **NumPy**: Statistical calculations (e.g., mean, std).  
+- **Matplotlib/Seaborn**: Visualizations (e.g., bar charts, line plots).  
+
+---
+
+## Credits
+
+### Content
+- Dataset sourced from: [Kaggle Chocolate Sales Dataset](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales).  
+- Visualization ideas inspired by Seaborn documentation.  
+
+### Media
+- Icons for dashboard footer from [Font Awesome](https://fontawesome.com/).  
+
+---
+
+## Acknowledgements
+
+Thanks to our team for collaborative efforts in data cleaning, analysis, and visualization design, and to xAI for providing Grok 3, which assisted with ideation and structuring this README.
+
+---
+
